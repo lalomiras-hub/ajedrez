@@ -1,0 +1,2177 @@
+﻿[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Barczay, Laszlo"]
+[Black "Gliksman, Darko"]
+[Result "1-0"]
+[ECO "C61"]
+[EventDate "1969.03.20"]
+[PlyCount "73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.c3 Qg5 6.Bf1 d3 7.Qf3 b6 8.Bxd3 
+Bb7 9.O-O Nf6 10.Bc2 O-O-O 11.d3 Qh4 12.Qg3 Qxg3 13.hxg3 Re8 14.Nd2 d5 15.
+exd5 Bxd5 16.Bb3 h5 17.Bxd5 Nxd5 18.Nf3 Be7 19.Bd2 h4 20.gxh4 Bxh4 21.Rae1
+Bf6 22.Rxe8+ Rxe8 23.Re1 Rxe1+ 24.Nxe1 Kd7 25.Kf1 c5 26.Ke2 b5 27.Nc2 Nb6 
+28.b3 Kc6 29.c4 a6 30.Ne3 b4 31.Nc2 a5 32.Be3 a4 33.d4 Nxc4 34.bxc4 b3 35.
+d5+ Kb6 36.axb3 axb3 37.Na3 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Bogdanovic, Rajko"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C19"]
+[EventDate "1969.03.20"]
+[PlyCount "37"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.a4 Nbc6 8.Nf3 
+Qa5 9.Qd2 Bd7 10.Be2 Rc8 11.Bd3 cxd4 12.cxd4 Qxd2+ 13.Bxd2 Nf5 14.Bxf5 
+exf5 15.O-O Nd8 16.Ra2 Rc4 17.a5 Ba4 18.c3 Bb5 19.Rb1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Bukal, Vladimir"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "A05"]
+[EventDate "1969.03.20"]
+[PlyCount "85"]
+
+1.Nf3 Nf6 2.g3 g6 3.b4 Bg7 4.Bb2 O-O 5.Bg2 d5 6.O-O c6 7.d3 Bg4 8.Nbd2 
+Nbd7 9.c4 Re8 10.Qc2 e5 11.e4 dxe4 12.dxe4 c5 13.b5 Qc7 14.Nh4 Rad8 15.h3 
+Be6 16.Nf5 gxf5 17.exf5 Nf8 18.fxe6 Nxe6 19.Ne4 Nd4 20.Nxf6+ Bxf6 21.Qe4 
+b6 22.Qg4+ Bg7 23.Be4 Rf8 24.Qh5 f5 25.Bxd4 cxd4 26.Bxf5 h6 27.Qg6 Rf6 28.
+Qh7+ Kf8 29.Bd3 Qb7 30.Be4 Qf7 31.Rac1 Ke7 32.Bd3 Kd6 33.Qe4 Qe6 34.c5+ 
+Ke7 35.cxb6 axb6 36.Rc7+ Kf8 37.Rfc1 Qxa2 38.R1c2 Qd5 39.Qg4 Qg8 40.Rc8 
+Rd6 41.Bc4 Qh7 42.Rxd8+ Rxd8 43.Qf3+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Gligoric, Svetozar"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "A79"]
+[EventDate "1969.03.20"]
+[PlyCount "46"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 
+9.O-O Re8 10.Nd2 Na6 11.f3 Nc7 12.a4 b6 13.Nc4 Ba6 14.Bg5 h6 15.Bd2 Qd7 
+16.b3 h5 17.Rb1 Bxc4 18.bxc4 Rab8 19.Rb3 Qe7 20.Kh1 Nd7 21.f4 Bd4 22.Bf3 
+Nf6 23.Re1 Qd7 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Korchnoi, Viktor"]
+[Black "Lutikov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[EventDate "1969.03.20"]
+[PlyCount "30"]
+
+1.e4 Nc6 2.Nc3 e5 3.Nf3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.
+dxc3 Qe5+ 9.Qe2 Qxe2+ 10.Kxe2 c6 11.Bd3 d5 12.Bf4 Be6 13.Rhe1 O-O-O 14.Kf1
+Bd6 15.Bxd6 Rxd6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Kovacs, Laszlo"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B14"]
+[EventDate "1969.03.20"]
+[PlyCount "115"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Nge2 
+Nbd7 9.g3 Nb6 10.Bg2 Bf5 11.Bf4 Bd3 12.d6 exd6 13.O-O Qd7 14.Rfe1 Bc4 15.
+Qb4 Rfd8 16.Rad1 h6 17.b3 Be6 18.d5 Bf5 19.Be3 Nc8 20.Nd4 a5 21.Qb5 Bg4 
+22.Rc1 Ne8 23.Qf1 g5 24.h3 Bh5 25.Be4 Ne7 26.g4 Bg6 27.Bxg6 Nxg6 28.Na4 
+Ra6 29.Nf5 b5 30.Nb6 Qb7 31.Qxb5 Rb8 32.Qc6 Nf6 33.Qxb7 Rxb7 34.Rc8+ Kh7 
+35.Nc4 Nxd5 36.Ncxd6 Rd7 37.Nxg7 Nxe3 38.Ndf5 Nxf5 39.Nxf5 Rd2 40.Ree8 Ra7
+41.a4 Rb2 42.Rg8 f6 43.Ra8 Rxa8 44.Rxa8 Rxb3 45.Ra7+ Kh8 46.Ra8+ Kh7 47.
+Ra7+ Kh8 48.Rxa5 Rxh3 49.Ra8+ Kh7 50.Ne3 h5 51.a5 hxg4 52.Nxg4 Rf3 53.Ra7+
+Kg8 54.a6 Rf4 55.Nh6+ Kf8 56.Rf7+ Ke8 57.a7 Ra4 58.Rb7 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Matulovic, Milan"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[EventDate "1969.03.20"]
+[PlyCount "43"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 
+a5 9.f3 d5 10.exd5 Nb4 11.d6 Qxd6 12.O-O Nfd5 13.Nxd5 Nxd5 14.Bf2 Nf4 15.
+c3 Bd7 16.a4 Rfd8 17.Bc4 Qf6 18.Qb3 h5 19.Be3 e6 20.Rad1 Qg5 21.Bxf4 Qxf4 
+22.Kh1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.20"]
+[Round "1"]
+[White "Parma, Bruno"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[EventDate "1969.03.20"]
+[PlyCount "132"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 Na5 10.Bc2 c5 11.d4 cxd4 12.cxd4 Bb7 13.Nbd2 Rc8 14.Nf1 Qc7 15.Bb1 
+exd4 16.Nxd4 g6 17.Ng3 Nc6 18.Nxc6 Qxc6 19.Bd3 Nd7 20.Be3 Nc5 21.Rc1 Qd7 
+22.Bb1 Ne6 23.Qd2 Rxc1 24.Rxc1 Rc8 25.Rxc8+ Qxc8 26.Ne2 Nc5 27.f3 Nd7 28.
+Nf4 Ne5 29.Nd5 Bd8 30.b3 Bxd5 31.Qxd5 Qc3 32.Qd2 Qxd2 33.Bxd2 Bb6+ 34.Kf1 
+Kf8 35.Ke2 Ke7 36.a3 Bc5 37.f4 Nd7 38.b4 Bg1 39.Bc2 Nb6 40.Kd3 d5 41.Bc3 
+Bh2 42.Bd4 Nc4 43.exd5 Nd6 44.Be3 Bg3 45.Bb3 h5 46.Ke2 Kd7 47.Kf3 Be1 48.
+g4 hxg4+ 49.hxg4 Bc3 50.Bc1 f5 51.Bc2 Ke7 52.Be3 a5 53.bxa5 Bxa5 54.Bc5 
+Kd7 55.gxf5 gxf5 56.Ke3 Bc3 57.Kd3 Bb2 58.a4 bxa4 59.Bxa4+ Ke7 60.Bd4 Ba3 
+61.Be3 Bb2 62.Kc2 Bf6 63.Kb3 Kd8 64.Bb6+ Kc8 65.Bc6 Ne4 66.Ba5 Bd8 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Bogdanovic, Rajko"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[EventDate "1969.03.20"]
+[PlyCount "99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bb7 13.Ng3 Na5 14.Bc2 Nc4 15.Bd3 Nb6 
+16.Bd2 c5 17.d5 Bc8 18.Nh2 Nh7 19.Rf1 Be7 20.Nf3 Bd7 21.b3 c4 22.bxc4 Nxc4
+23.Bxc4 bxc4 24.Be3 Qa5 25.Qc2 Reb8 26.Rfb1 Rb5 27.Nd2 Rc8 28.Ne2 Bg5 29.
+Bxg5 Nxg5 30.Ng3 f5 31.Rxb5 Qxb5 32.Rb1 Qc5 33.h4 Nh7 34.Ngf1 Nf6 35.Ne3 
+f4 36.Nd1 Bg4 37.Kf1 Bh5 38.Rb4 a5 39.Rb7 Be8 40.Qb2 Ba4 41.Ke1 Bxd1 42.
+Rb5 Qa7 43.Rb7 Qc5 44.Rb5 Qc7 45.Kxd1 Nd7 46.Qa3 Nc5 47.Qxa5 Qe7 48.Qb6 
+Qxh4 49.Qxd6 Qxf2 50.Qxe5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Gliksman, Darko"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[EventDate "1969.03.20"]
+[PlyCount "24"]
+
+1.g3 g6 2.Bg2 Bg7 3.e4 c5 4.Ne2 Nc6 5.O-O d6 6.c3 e5 7.Na3 Nge7 8.Nc2 O-O 
+9.d4 exd4 10.cxd4 cxd4 11.Nexd4 Nxd4 12.Nxd4 d5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Hennings, Artur"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B52"]
+[EventDate "1969.03.20"]
+[PlyCount "94"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c4 Nf6 7.Nc3 e5 8.d3 
+h6 9.Ne1 Be7 10.Nc2 Nd4 11.Nxd4 cxd4 12.Ne2 O-O 13.f4 b5 14.b3 bxc4 15.
+bxc4 Kh7 16.Ng3 Ng8 17.Rb1 f6 18.Rf2 Rab8 19.Rfb2 Rxb2 20.Rxb2 Bd8 21.f5 
+Bb6 22.Qg4 Qf7 23.Bd2 Rb8 24.Nh5 Bc7 25.Rxb8 Bxb8 26.h3 Ne7 27.Bb4 Nc6 28.
+Ba3 a5 29.Kf2 Nd8 30.Qd1 Nb7 31.g4 Ba7 32.h4 Bc5 33.Bc1 Bb4 34.g5 fxg5 35.
+hxg5 hxg5 36.Qg4 Nc5 37.Ke2 Nxe4 38.dxe4 Qxc4+ 39.Kf2 Qxc1 40.f6 d3 41.Kg2
+Qd2+ 42.Kh3 Qe2 43.Qf5+ Kh6 44.Ng3 g6 45.f7 g4+ 46.Kh4 Qh2+ 47.Kxg4 Qh5+ 
+0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Janosevic, Dragoljub"]
+[Black "Bukal, Vladimir"]
+[Result "1-0"]
+[ECO "B82"]
+[EventDate "1969.03.20"]
+[PlyCount "84"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.f4 a6 7.f5 e5 8.Nb3 b5 9.
+Bg5 Be7 10.Bxf6 Bxf6 11.a4 b4 12.Nd5 Bb7 13.Bc4 O-O 14.O-O Nd7 15.a5 Nc5 
+16.Qe2 Ra7 17.Rfd1 Bxd5 18.Rxd5 Qc7 19.Rad1 Rd8 20.Nxc5 dxc5 21.Rxd8+ Bxd8
+22.Qd2 Be7 23.Qd5 Bf8 24.Qd8 Qc6 25.Qb8 Rd7 26.Bd5 Qc7 27.Qb6 Qa7 28.Kf1 
+Be7 29.Ke2 Kf8 30.g4 h6 31.b3 Bd8 32.Qxa7 Rxa7 33.Bxf7 Bxa5 34.Bc4 Bc7 35.
+Rd5 a5 36.Rxc5 Ke7 37.Rc6 Bd6 38.h4 a4 39.bxa4 Rxa4 40.g5 hxg5 41.hxg5 Ra1
+42.Rb6 Kd7 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Lutikov, Anatoly"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[EventDate "1969.03.20"]
+[PlyCount "51"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.Qd2 h6 6.Be3 Ng4 7.Bf4 Nc6 8.h3 e5 
+9.dxe5 Ngxe5 10.Be3 g5 11.O-O-O f5 12.f4 gxf4 13.Bxf4 Be6 14.exf5 Bxf5 15.
+Be2 Qd7 16.Nf3 O-O-O 17.Be3 Rde8 18.Rhf1 Kb8 19.Bb5 Be6 20.Nxe5 Bxe5 21.
+Rf3 Qg7 22.Bf4 Bd7 23.Rg3 Qf7 24.Bxe5 Nxe5 25.Rf1 Qe6 26.Be2 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Mestrovic, Zvonimir"]
+[Black "Kovacs, Laszlo"]
+[Result "1-0"]
+[ECO "D01"]
+[EventDate "1969.03.20"]
+[PlyCount "63"]
+
+1.d4 d5 2.Nc3 Nf6 3.Bg5 Bf5 4.e3 c6 5.Bd3 Bg6 6.f4 Ne4 7.Nxe4 Bxe4 8.Nf3 
+Qb6 9.O-O f6 10.Bh4 Nd7 11.Bxe4 dxe4 12.Nd2 f5 13.g4 e6 14.gxf5 exf5 15.
+Nc4 Qc7 16.Ne5 g6 17.c4 Bg7 18.Qb3 Nxe5 19.dxe5 O-O 20.Rfd1 h6 21.Rd6 g5 
+22.c5+ Kh7 23.fxg5 hxg5 24.Bxg5 Rae8 25.Rad1 Rg8 26.Kh1 Kh8 27.Rd7 Qxe5 
+28.Qf7 Rgf8 29.Qh5+ Kg8 30.Rg1 Re6 31.Bh6 Rxh6 32.Rdxg7+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Uhlmann, Wolfgang"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[ECO "E11"]
+[EventDate "1969.03.20"]
+[PlyCount "125"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 O-O 7.b4 a5 8.Bb2 
+axb4 9.axb4 Rxa1+ 10.Bxa1 d6 11.e3 Bb7 12.Be2 Nbd7 13.O-O Qe7 14.Bb2 Ra8 
+15.Qc2 Be4 16.Qc3 Bb7 17.d5 e5 18.Nd2 Nf8 19.e4 c5 20.Ra1 Rxa1+ 21.Bxa1 
+Qd8 22.bxc5 bxc5 23.Qa3 Qb8 24.g3 Bc8 25.f3 h5 26.Bc3 h4 27.Qb3 Qa7 28.Nb1
+hxg3 29.hxg3 Nh5 30.Kf2 Qe7 31.Bd2 f5 32.Qb8 Bd7 33.exf5 e4 34.fxe4 Nf6 
+35.Nc3 Nxe4+ 36.Nxe4 Qxe4 37.Qxd6 Qxf5+ 38.Qf4 Qc2 39.Be3 Ng6 40.Qg5 Bf5 
+41.Qh5 Bd3 42.d6 Bxe2 43.Qxe2 Qf5+ 44.Qf3 Qe6 45.Qd5 Qxd5 46.cxd5 Ne5 47.
+Ke2 Nd7 48.Kd3 Kf7 49.Kc4 Ke8 50.Bxc5 Ne5+ 51.Kb5 Kd7 52.Bd4 Nf7 53.Bxg7 
+Nxd6+ 54.Kb4 Ne4 55.Be5 Nf2 56.Kc4 Ng4 57.Kd4 Nf2 58.Ke3 Ng4+ 59.Kf4 Nh6 
+60.g4 Ke7 61.g5 Nf7 62.Kf5 Kf8 63.Kf6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.21"]
+[Round "2"]
+[White "Vukic, Milan"]
+[Black "Korchnoi, Viktor"]
+[Result "0-1"]
+[ECO "D77"]
+[EventDate "1969.03.20"]
+[PlyCount "144"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.O-O dxc4 7.Na3 Nc6 8.Nxc4 
+a5 9.b3 Be6 10.Bb2 Bd5 11.e3 a4 12.Qe2 Ra6 13.Rfc1 Re8 14.Ne1 Bxg2 15.Nxg2
+Nd5 16.Ne1 e6 17.Nd3 Qa8 18.bxa4 Rxa4 19.a3 b6 20.Qc2 Nde7 21.Nd2 Ra7 22.
+Nb4 Na5 23.Rab1 Rd8 24.Ne4 c6 25.Nd2 h5 26.h4 Rc8 27.Nd3 Nf5 28.Bc3 Qb8 
+29.Kg2 Bh6 30.Re1 Qc7 31.Qb2 Rb8 32.Kh3 Nd6 33.Ne5 Bg7 34.Bxa5 Rxa5 35.
+Nec4 Nxc4 36.Nxc4 Rb5 37.Qc2 Rd5 38.Qb3 Rf5 39.Re2 Rb5 40.Qa2 Rxb1 41.Qxb1
+b5 42.Nd2 e5 43.Nf3 exd4 44.exd4 Bxd4 45.Nxd4 Qd7+ 46.Nf5 Qxf5+ 47.Qxf5 
+gxf5 48.Rc2 Rb6 49.Kg2 Ra6 50.Rc3 Kf8 51.Kf3 Ke7 52.Kf4 Kf6 53.f3 Ra4+ 54.
+Ke3 Ke5 55.Rc5+ Kd6 56.Rxf5 Rxa3+ 57.Ke4 Ra7 58.Rxh5 Ra4+ 59.Kd3 Ra3+ 60.
+Ke4 b4 61.Rf5 b3 62.Kd3 b2+ 63.Kc2 Rb3 64.Kb1 c5 65.Rxf7 c4 66.Rf8 c3 67.
+Rd8+ Kc5 68.Rc8+ Kd4 69.Rd8+ Kc4 70.Rc8+ Kd3 71.Rd8+ Ke2 72.Re8+ Kf2 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Barczay, Laszlo"]
+[Black "Lutikov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[EventDate "1969.03.20"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 Na5 10.Bc2 Re8 11.d4 Bb7 12.Nbd2 c5 13.dxe5 dxe5 14.Nh2 Qb6 15.Qf3 
+Rad8 16.Ndf1 b4 17.Ng3 b3 18.axb3 Nxb3 19.Bxb3 Qxb3 20.Nhf1 c4 21.Qe2 Qb5 
+22.f3 Bc8 23.Be3 g6 24.Red1 Be6 25.Bg5 Rxd1 26.Rxd1 Rd8 27.Rxd8+ Bxd8 28.
+Ne3 Kg7 29.Qd2 Bb6 30.Kh2 Ng8 31.Nd1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Bukal, Vladimir"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "A26"]
+[EventDate "1969.03.20"]
+[PlyCount "66"]
+
+1.g3 g6 2.Bg2 Bg7 3.c4 e5 4.Nc3 Nc6 5.Nf3 d6 6.O-O f5 7.d3 Nf6 8.Rb1 a5 9.
+a3 O-O 10.b4 axb4 11.axb4 h6 12.e3 Be6 13.Qb3 Bf7 14.Nd2 Rb8 15.Ba3 Ne7 
+16.b5 Re8 17.Rfe1 Qd7 18.d4 Nc8 19.Qc2 exd4 20.exd4 Rxe1+ 21.Rxe1 Ra8 22.
+Bb2 c6 23.bxc6 bxc6 24.d5 cxd5 25.Nxd5 Nxd5 26.Bxg7 Kxg7 27.cxd5 Ne7 28.
+Nc4 Rd8 29.Qc3+ Kh7 30.Nb6 Qe8 31.Qf6 Nxd5 32.Rxe8 Nxf6 33.Rxd8 Ne8 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Damjanovic, Mato"]
+[Black "Gliksman, Darko"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[EventDate "1969.03.20"]
+[PlyCount "24"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2
+Bd6 9.Nc4 Qe7 10.b3 O-O 11.Bb2 Re8 12.Nxd6 cxd6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Gligoric, Svetozar"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "D88"]
+[EventDate "1969.03.20"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2
+Nc6 9.O-O b6 10.Bg5 Na5 11.Bd3 c5 12.Rc1 cxd4 13.cxd4 Bb7 14.Qa4 Qd6 15.
+Bd2 Rfc8 16.Bb4 Qd8 17.d5 e6 18.Bxa5 bxa5 19.Qb3 Qb6 20.dxe6 fxe6 21.Rb1 
+Qxb3 22.Rxb3 Bc6 23.Nf4 a4 24.Rbb1 e5 25.Nd5 Bxd5 26.exd5 Bf8 27.Rfc1 
+Rxc1+ 28.Rxc1 Rb8 29.h4 Bd6 30.Rc6 Rb6 31.Rc8+ Kf7 32.Rh8 Kg7 33.Rd8 Kf6 
+34.Rd7 h5 35.Rxa7 a3 36.g3 Rb2 37.Ra6 Ke7 38.Bc4 e4 39.Rc6 Rb1+ 40.Kg2 Rb2
+41.Kf1 e3 42.fxe3 Bxg3 43.Rxg6 Bxh4 44.Ra6 Bg3 45.Rxa3 h4 46.Ra7+ Kd6 47.
+Rh7 Kc5 48.Bb3 Rf2+ 49.Kg1 Re2 50.Rh6 Rxe3 51.Kg2 Rd3 52.Rh7 Kd4 53.Kh3 
+Ke3 54.Rf7 Rd4 55.Rf5 Kd2 56.Rf3 Ke2 57.Rc3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Korchnoi, Viktor"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "D20"]
+[EventDate "1969.03.20"]
+[PlyCount "25"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Nbd2 Nc6 7.O-O Nh6 8.
+Nb3 Bg4 9.Bd5 Ne5 10.Qxd4 Nxf3+ 11.gxf3 Bxf3 12.Bxh6 Qd7 13.Qe5+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Kovacs, Laszlo"]
+[Black "Janosevic, Dragoljub"]
+[Result "0-1"]
+[ECO "B84"]
+[EventDate "1969.03.20"]
+[PlyCount "110"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 e6 4.d4 cxd4 5.Nxd4 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 
+d6 9.Rc1 Bd7 10.f4 Be7 11.Nb3 O-O 12.Bf3 Na5 13.Nxa5 Qxa5 14.Qd2 Bc6 15.e5
+dxe5 16.Nd5 Nxd5 17.Qxa5 Bb4 18.Qxb4 Nxb4 19.Bc5 e4 20.Be2 Nd5 21.Bxf8 
+Kxf8 22.g3 Ke7 23.Rfe1 a5 24.a3 a4 25.c4 Ne3 26.Rc3 Nf5 27.Rd1 h6 28.Bg4 
+Nd6 29.Kf2 g5 30.Ke3 h5 31.Bh3 g4 32.Bg2 Nf5+ 33.Ke2 h4 34.Kf1 h3 35.Bh1 
+Nd6 36.Kf2 f5 37.Ke3 Rc8 38.Rd4 Ne8 39.Rc1 Nc7 40.Rd2 Na6 41.Rc3 Nc5 42.
+Rd1 b6 43.Rc2 Nb3 44.Rc3 Rc7 45.Ke2 Bb7 46.Ke3 Na5 47.Rd4 Rc5 48.Kf2 e3+ 
+49.Kg1 Bxh1 50.Kxh1 Nxc4 51.Kg1 Nxb2 52.Rxe3 Rc1+ 53.Kf2 Nd1+ 54.Rxd1 Rxd1
+55.Re2 Rh1 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Matulovic, Milan"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[EventDate "1969.03.20"]
+[PlyCount "57"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 Na5 10.Bc2 c5 11.d4 cxd4 12.cxd4 Bb7 13.Nbd2 Rc8 14.Nf1 d5 15.exd5 
+exd4 16.Bg5 h6 17.Bh4 Nxd5 18.Qd3 g6 19.Bxe7 Nxe7 20.Nxd4 Nec6 21.Nxc6 
+Nxc6 22.Qg3 Qf6 23.Rad1 Nd4 24.Be4 Bxe4 25.Rxe4 Rfd8 26.Rd2 Nf5 27.Qf4 
+Rxd2 28.Qxd2 Qc6 29.Re1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.22"]
+[Round "3"]
+[White "Parma, Bruno"]
+[Black "Vukic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[EventDate "1969.03.20"]
+[PlyCount "82"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 
+Bxd3 9.Qxd3 Qc7 10.Bd2 Ngf6 11.O-O-O e6 12.Kb1 O-O-O 13.c4 c5 14.Qe2 Bd6 
+15.Ne4 Nxe4 16.Qxe4 Nf6 17.Qe2 Rhe8 18.Bc3 Ng4 19.dxc5 Bxc5 20.Nd4 Nf6 21.
+Nb3 Rxd1+ 22.Rxd1 Rd8 23.Rxd8+ Kxd8 24.Qd3+ Ke8 25.Nxc5 Qxc5 26.Bd4 Qc6 
+27.f3 a6 28.Be5 Qc5 29.Qd4 Qxd4 30.Bxd4 Ke7 31.Kc2 g6 32.Be3 Ng8 33.Kd3 e5
+34.a4 h5 35.b4 Kd7 36.b5 Ne7 37.c5 axb5 38.axb5 f6 39.f4 exf4 40.Bxf4 Nf5 
+41.g3 g5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Bogdanovic, Rajko"]
+[Black "Kovacs, Laszlo"]
+[Result "1-0"]
+[ECO "C85"]
+[EventDate "1969.03.20"]
+[PlyCount "123"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2
+f6 9.Nh4 g6 10.f4 exf4 11.Rxf4 Ne5 12.Rf1 Qd4+ 13.Kh1 Ng4 14.Qe1 Be6 15.
+Nhf3 Qd7 16.d4 O-O-O 17.c4 h5 18.a3 c5 19.d5 Bf7 20.Rb1 Bd6 21.b4 Rhe8 22.
+bxc5 Bxc5 23.Nb3 Bb6 24.h3 f5 25.e5 Bxd5 26.cxd5 Qxd5 27.Bg5 Rd7 28.Bf4 
+Nf6 29.Nbd2 Ne4 30.Nxe4 fxe4 31.Ng5 Ba5 32.Qxe4 Qxe4 33.Nxe4 Rd4 34.Nf6 
+Re6 35.Rbd1 Ra4 36.Rd3 b5 37.Nd7 Re8 38.g3 Rc4 39.h4 Bc3 40.Rfd1 Bb2 41.
+Re1 Re6 42.Re2 Bxa3 43.Rxa3 Kxd7 44.Rea2 Rcc6 45.Kg2 Kc8 46.Kf3 Kb7 47.Ke4
+Re8 48.Rd3 Rc4+ 49.Rd4 Rc3 50.Rd7 b4 51.Rd3 Rc5 52.Rd5 Rc3 53.Rd3 Rc5 54.
+Rd5 Rc3 55.Ra4 c5 56.Rd7+ Kc6 57.Rd6+ Kb5 58.Raxa6 Rb8 59.e6 b3 60.e7 Re8 
+61.Rdb6+ Kc4 62.Ra4# 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Gligoric, Svetozar"]
+[Black "Bukal, Vladimir"]
+[Result "1-0"]
+[ECO "D22"]
+[EventDate "1969.03.20"]
+[PlyCount "69"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Bg4 5.Bxc4 e6 6.h3 Bh5 7.Nc3 Nc6 8.Be2 a6
+9.O-O Bd6 10.b3 O-O 11.Bb2 Qe7 12.Rc1 Rfd8 13.Nb1 Ne4 14.a3 Bg6 15.b4 Qf6 
+16.Qb3 e5 17.Rxc6 bxc6 18.dxe5 Qe7 19.exd6 cxd6 20.Nc3 Ng5 21.Nxg5 Qxg5 
+22.Bf3 d5 23.Ne2 Bf5 24.Nf4 Rd6 25.g3 Qh6 26.h4 Re8 27.Rd1 f6 28.Qc3 g5 
+29.hxg5 fxg5 30.Nh5 Rf8 31.g4 Bg6 32.Qh8+ Kf7 33.Qe5 Bxh5 34.gxh5 Re6 35.
+Qg3 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Hennings, Artur"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[ECO "B72"]
+[EventDate "1969.03.20"]
+[PlyCount "83"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.O-O 
+d6 9.h3 Bd7 10.Bb3 Nxd4 11.Bxd4 Bc6 12.Nd5 e5 13.Nxf6+ Qxf6 14.Bc3 Bxe4 
+15.f4 Qe7 16.fxe5 Bxe5 17.Qe2 Bxc3 18.bxc3 d5 19.c4 Qc5+ 20.Kh1 Rae8 21.
+cxd5 Bxd5 22.Qd2 Re5 23.Rae1 Bxb3 24.Rxe5 Qxe5 25.axb3 Qb5 26.Qf4 a6 27.
+Rf3 Qc6 28.c4 Qd7 29.b4 Re8 30.Rf1 Re6 31.c5 Kg7 32.Qf3 Qe7 33.Qc3+ f6 34.
+Rd1 Re3 35.Qd2 Qe4 36.Qd7+ Kh6 37.Qd2 g5 38.Qf2 Kg6 39.Rf1 f5 40.Kh2 Re2 
+41.Qf3 Rb2 42.Qg3 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Janosevic, Dragoljub"]
+[Black "Korchnoi, Viktor"]
+[Result "0-1"]
+[ECO "B05"]
+[EventDate "1969.03.20"]
+[PlyCount "70"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 e6 6.c4 Nb6 7.exd6 cxd6 8.O-O 
+Be7 9.Be3 O-O 10.Nc3 d5 11.c5 Bxf3 12.Bxf3 Nc4 13.b4 a6 14.Qb3 Bg5 15.Rfc1
+Nc6 16.Rd1 b6 17.cxb6 Nxb6 18.Be2 Bf6 19.a3 g6 20.Bf1 Qe7 21.Ne2 Rfc8 22.
+Kh1 a5 23.b5 a4 24.Qa2 Na5 25.Bd2 Nb3 26.Bb4 Qd7 27.Qb1 Nc4 28.Rd3 Qxb5 
+29.Nc3 Qb7 30.Nxa4 Nxd4 31.Nc5 Qa7 32.Nb3 Nb5 33.Rf3 Nbxa3 34.Qa2 Bg7 35.
+h4 Ne5 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Lutikov, Anatoly"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "C15"]
+[EventDate "1969.03.20"]
+[PlyCount "72"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Ne7 6.Nf3 b6 7.Bd3 Ba6 8.Ng5 
+Bxd3 9.cxd3 Nd7 10.Qh5 Ng6 11.e5 Ndf8 12.a4 h6 13.Nf3 Qd7 14.O-O Ne7 15.a5
+Nfg6 16.Qg4 h5 17.Qg5 O-O-O 18.axb6 cxb6 19.c4 f6 20.Qd2 dxc4 21.Qc2 c3 
+22.Qxc3+ Kb8 23.Ba3 Nf5 24.Ra2 Qd5 25.Rfa1 Rd7 26.Rc2 Nf4 27.Bd6+ Nxd6 28.
+exd6 Qxd6 29.Qb2 Rc7 30.Rc4 Rhc8 31.Qb3 Ne2+ 32.Kf1 Rxc4 33.dxc4 Nxd4 34.
+Qd3 Nf5 35.Qe4 Qc6 36.Qf4+ Qc7 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Mestrovic, Zvonimir"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[EventDate "1969.03.20"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.Nc3 g6 3.e4 d6 4.Bg5 Bg7 5.Nf3 Bg4 6.Be2 O-O 7.O-O c6 8.Qd2 
+Nbd7 9.Rfe1 e5 10.dxe5 dxe5 11.Qe3 Qe7 12.Bc4 Be6 13.Bxe6 Qxe6 14.h3 Rfe8 
+15.Red1 Bf8 16.a3 Nb6 17.b3 Nfd7 18.Qe2 Bc5 19.Be3 Qe7 20.Bxc5 Nxc5 21.Qe3
+Rad8 22.a4 a5 23.Rxd8 Rxd8 24.Rd1 Rxd1+ 25.Nxd1 Qd6 26.Nb2 Nbd7 27.Qe1 b6 
+28.Nc4 Qe7 29.Qe3 f6 30.Ne1 Qd8 31.Nd3 Ne6 32.Qd2 Qc7 33.Nc1 Ndc5 34.f3 
+Nb7 35.Ne2 Kf7 36.Kh2 Nd4 37.Kh1 Ne6 38.Kh2 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Uhlmann, Wolfgang"]
+[Black "Gliksman, Darko"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[EventDate "1969.03.20"]
+[PlyCount "104"]
+
+1.d4 g6 2.c4 Bg7 3.e4 d6 4.Nf3 e5 5.Bg5 f6 6.Bh4 Nc6 7.h3 Nh6 8.Nc3 O-O 9.
+dxe5 dxe5 10.Qxd8 Nxd8 11.Nd5 Ne6 12.O-O-O Kf7 13.g4 Ng8 14.g5 fxg5 15.
+Nxg5+ Nxg5 16.Bxg5 c6 17.Nc7 Rb8 18.c5 Bh6 19.Bc4+ Kg7 20.Bxh6+ Kxh6 21.
+Rd3 Nf6 22.f3 Nh5 23.h4 Nf4 24.Rd6 Bh3 25.h5 Kg5 26.hxg6 hxg6 27.Kd2 Rbc8 
+28.Rxh3 Rxc7 29.Rg3+ Kh6 30.Ke3 Kg7 31.Rg1 Re7 32.b4 Rh8 33.Rd2 Ra8 34.Rb1
+a5 35.b5 cxb5 36.Rxb5 Rc7 37.Rdb2 Kf6 38.Bd5 Rac8 39.Bxb7 Rd8 40.Rd2 Rxd2 
+41.Kxd2 Ne6 42.Rb6 Ke7 43.Bd5 Nd4 44.f4 exf4 45.Kd3 Nf3 46.Re6+ Kd8 47.e5 
+Rd7 48.Rd6 Nxe5+ 49.Ke4 Rxd6 50.cxd6 Nd7 51.Kxf4 Nc5 52.Bc4 g5+ 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.23"]
+[Round "4"]
+[White "Vukic, Milan"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[EventDate "1969.03.20"]
+[PlyCount "57"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3 e5 8.e4 c6 
+9.h3 Qb6 10.Re1 Re8 11.d5 cxd5 12.cxd5 Nc5 13.Rb1 a5 14.Be3 Bd7 15.Nd2 
+Rec8 16.Bf1 Qd8 17.Nc4 Bf8 18.Bg5 Ra6 19.a4 h6 20.Bd2 Nh7 21.f4 exf4 22.
+Bxf4 Ng5 23.Kh2 f6 24.h4 Nf7 25.h5 g5 26.Bd2 f5 27.exf5 Bxf5 28.Ne3 Bxb1 
+29.Bxa6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Barczay, Laszlo"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "C56"]
+[EventDate "1969.03.20"]
+[PlyCount "61"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bd7 8.Bxc6 
+bxc6 9.O-O Be7 10.f3 Nc5 11.f4 O-O 12.f5 Bg5 13.Nc3 Re8 14.Bxg5 Qxg5 15.
+Qe2 Rab8 16.Qf2 Qe7 17.Rae1 Rxb2 18.f6 Qf8 19.fxg7 Qe7 20.e6 Bxe6 21.Nf5 
+Qg5 22.Qxc5 Rxc2 23.Rf2 Rxf2 24.Qxf2 Qf6 25.Nd1 c5 26.Qf4 Rd8 27.Nde3 h5 
+28.Rf1 Kh7 29.Qf3 Qg5 30.h4 Qg6 31.g8=Q+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Bukal, Vladimir"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "A11"]
+[EventDate "1969.03.20"]
+[PlyCount "68"]
+
+1.g3 d5 2.Bg2 c6 3.Nf3 Bg4 4.c4 e6 5.O-O Nd7 6.b3 Bxf3 7.exf3 Be7 8.Bb2 
+Bf6 9.Qc2 Ne7 10.Nc3 O-O 11.Ne2 Nf5 12.d4 g6 13.Rfd1 a5 14.Rab1 Qb6 15.Bf1
+Qa7 16.Bh3 Ne7 17.Nf4 Rfd8 18.c5 b6 19.Nd3 bxc5 20.dxc5 Bxb2 21.Rxb2 Nf5 
+22.Bxf5 exf5 23.Qc3 Re8 24.Rc2 Nf8 25.Nf4 Ne6 26.Nxe6 Rxe6 27.Re1 d4 28.
+Qd2 Rxe1+ 29.Qxe1 Rd8 30.Qd2 d3 31.Rc3 Qd7 32.Kg2 Qd4 33.Rc4 Qe5 34.Rc3 
+Qxc3 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Damjanovic, Mato"]
+[Black "Lutikov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C85"]
+[EventDate "1969.03.20"]
+[PlyCount "89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2
+O-O 9.Nc4 f6 10.Ne3 Nc5 11.Nf5 g6 12.Nxe7+ Qxe7 13.Be3 Rd8 14.Nd2 Ne6 15.
+f4 exf4 16.Bxf4 Nxf4 17.Rxf4 Qe5 18.Rf2 Qxb2 19.Rb1 Qc3 20.Qf3 Rf8 21.Qg3 
+Rf7 22.Nf3 b5 23.h4 Be6 24.h5 g5 25.h6 Qc5 26.d4 Qf8 27.Nxg5 fxg5 28.Qxg5+
+Kh8 29.Qe5+ Kg8 30.Qxe6 Re8 31.Qb3 Rxe4 32.Rbf1 Re7 33.Rxf7 Rxf7 34.Qe6 
+Qe7 35.Qg4+ Kf8 36.Qc8+ Qe8 37.Rxf7+ Kxf7 38.Qxc7+ Kg6 39.Qd6+ Kg5 40.Kf2 
+Qe4 41.Qg3+ Kxh6 42.Qe3+ Qxe3+ 43.Kxe3 Kg5 44.Ke4 Kf6 45.c3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Gliksman, Darko"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[EventDate "1969.03.20"]
+[PlyCount "26"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Bd3 Bg6 7.O-O Nbd7 8.Qe2 Bb4
+9.Bd2 a5 10.a3 Be7 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 O-O 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Korchnoi, Viktor"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "E62"]
+[EventDate "1969.03.20"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 d6 6.Nf3 Nc6 7.O-O e5 8.d5 Ne7 
+9.c5 Ne8 10.cxd6 cxd6 11.e4 h6 12.a4 f5 13.exf5 gxf5 14.a5 Nc7 15.Ne1 Bd7 
+16.Qb3 a6 17.f4 e4 18.Nc2 Nb5 19.Be3 Nxc3 20.bxc3 Qc7 21.Nd4 Rfc8 22.Rfc1 
+Rab8 23.c4 Kh7 24.Qd1 Qd8 25.Ra2 Qf8 26.Bf1 Qf7 27.Rb1 Re8 28.Rab2 Bc8 29.
+Rb6 Rd8 30.Rxa6 bxa6 31.Rxb8 Qe8 32.Rb6 Qd7 33.Qh5 Ng8 34.Ne6 Re8 35.Qxf5+
+1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Kovacs, Laszlo"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[EventDate "1969.03.20"]
+[PlyCount "35"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.Nc3 d6 6.h3 Na5 7.Qe2 Nxc4 8.dxc4 
+O-O 9.O-O b6 10.Rd1 Qe8 11.b3 Bb7 12.Bb2 Nd7 13.Nd5 Bd8 14.Re1 Nc5 15.Rad1
+Ne6 16.Bc1 Kh8 17.Kh2 Rb8 18.a4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Matulovic, Milan"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B19"]
+[EventDate "1969.03.20"]
+[PlyCount "127"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 
+Bxd3 9.Qxd3 Qc7 10.Bd2 Ngf6 11.O-O-O e6 12.Kb1 O-O-O 13.c4 c5 14.Qe2 cxd4 
+15.Nxd4 a6 16.Nb3 Bd6 17.Ba5 b6 18.Bc3 Be5 19.c5 Bxc3 20.cxb6 Qxb6 21.Rc1 
+Kb8 22.Rxc3 Rc8 23.Rxc8+ Rxc8 24.Rd1 Ka7 25.Nh5 Nd5 26.Nf4 N7f6 27.Nxd5 
+Nxd5 28.Qf3 Rc7 29.Rc1 Rxc1+ 30.Nxc1 Qc7 31.Nd3 f6 32.Qg4 e5 33.g3 Qe7 34.
+f3 Nc7 35.a3 Ne6 36.Nb4 Qd6 37.Qc4 Kb7 38.Qe4+ Ka7 39.Qc4 Kb7 40.h5 Nc7 
+41.Nd3 Ne6 42.Ka2 Kb6 43.Nb4 Nc7 44.Qb3 Ka7 45.Qe3+ Kb7 46.Qe4+ Kb6 47.g4 
+Qe6+ 48.Kb1 Qd6 49.Qe3+ Kb7 50.Qb3 Ne6 51.Nd5+ Ka7 52.Ne3 Qd7 53.Nf5 Ng5 
+54.Qe3+ Kb7 55.Qc5 Qd1+ 56.Ka2 Qxf3 57.Nd6+ Ka8 58.a4 Nh3 59.Qb6 Qd5+ 60.
+Ka3 Nf4 61.Qxa6+ Kb8 62.Qc8+ Ka7 63.Nb5+ Kb6 64.Qc7+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.24"]
+[Round "5"]
+[White "Parma, Bruno"]
+[Black "Janosevic, Dragoljub"]
+[Result "0-1"]
+[ECO "B49"]
+[EventDate "1969.03.20"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.f4 a6 7.Be2 b5 8.Nxc6 
+Qxc6 9.Bf3 Bb7 10.Be3 Rc8 11.Qd3 Qc4 12.O-O-O Nf6 13.Bd4 b4 14.Bxf6 Qxd3 
+15.Rxd3 gxf6 16.Ne2 Bc5 17.Rhd1 Rc7 18.e5 Bxf3 19.Rxf3 f5 20.Nd4 Ke7 21.
+Nb3 d5 22.Nxc5 Rxc5 23.Rdd3 Rhc8 24.c3 bxc3 25.Rxc3 Rxc3+ 26.bxc3 Rc4 27.
+Kc2 Ra4 28.Kb3 Re4 29.Rf2 Kd7 30.Kc2 Kc6 31.Kd3 Ra4 32.g3 h5 33.Ke3 d4+ 
+34.Kd3 Kd5 35.Rb2 Ra3 36.Rb7 Rxc3+ 37.Kd2 Ra3 38.Rxf7 Ke4 39.Re7 Rxa2+ 40.
+Kc1 d3 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Bogdanovic, Rajko"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B04"]
+[EventDate "1969.03.20"]
+[PlyCount "76"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.Ng5 d5 8.f4 O-O 
+9.O-O f6 10.Nf3 Bg4 11.c3 Nc6 12.Bc2 Qd7 13.Nbd2 fxe5 14.fxe5 Nd8 15.h3 
+Bf5 16.Bxf5 Rxf5 17.Nh2 c5 18.Ndf3 cxd4 19.cxd4 Nc4 20.Ng4 Ne6 21.b3 Na5 
+22.Nh6+ Bxh6 23.Bxh6 Nc6 24.Qd2 Qc7 25.Be3 Raf8 26.Ng5 Rxf1+ 27.Rxf1 Rxf1+
+28.Kxf1 Qd7 29.Nxe6 Qxe6 30.g4 h5 31.Qe2 hxg4 32.hxg4 Kf7 33.Kg2 Nd8 34.
+Kg3 Qc6 35.Qf1+ Ke8 36.Qd3 Kf7 37.Qf1+ Ke8 38.Qd3 Kf7 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Bukal, Vladimir"]
+[Black "Kovacs, Laszlo"]
+[Result "1-0"]
+[ECO "A00"]
+[EventDate "1969.03.20"]
+[PlyCount "89"]
+
+1.g3 d5 2.Bg2 e5 3.c4 dxc4 4.Qa4+ c6 5.Qxc4 Be6 6.Qc2 f6 7.Nf3 Na6 8.Nc3 
+Qd7 9.O-O Ne7 10.Rd1 c5 11.b3 Nc6 12.Bb2 Be7 13.Rac1 O-O 14.Qb1 Rac8 15.
+Ne4 b6 16.d3 Nab4 17.Bc3 Nd5 18.Be1 Nd4 19.Qb2 Rfd8 20.Nc3 Nb4 21.Nb1 a5 
+22.Nxd4 exd4 23.a4 Nc6 24.Na3 Re8 25.Nc4 Bd8 26.Bd2 Bxc4 27.bxc4 Rxe2 28.
+Bd5+ Kh8 29.Re1 Re7 30.Qb5 Ne5 31.Qxd7 Nxd7 32.Rxe7 Bxe7 33.Re1 Bf8 34.f4 
+Rd8 35.Re6 f5 36.Rc6 Rb8 37.Be6 Nf6 38.Bxf5 Be7 39.Be6 g6 40.f5 gxf5 41.
+Bf4 Rf8 42.Rxb6 Kg7 43.Rb7 Re8 44.Bxf5 Kf8 45.Ra7 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Gligoric, Svetozar"]
+[Black "Korchnoi, Viktor"]
+[Result "1/2-1/2"]
+[ECO "D89"]
+[EventDate "1969.03.20"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 
+O-O 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 14.d5 Bxa1 15.
+Qxa1 f6 16.Rb1 Kg7 17.Qc3 Bf7 18.Nd4 Re8 19.Qd2 Kh8 20.h3 b6 21.Qe2 Qd6 
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Janosevic, Dragoljub"]
+[Black "Barczay, Laszlo"]
+[Result "0-1"]
+[ECO "B91"]
+[EventDate "1969.03.20"]
+[PlyCount "54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 Be6
+9.O-O Nbd7 10.h3 b5 11.Be3 Nb6 12.Na5 Rc8 13.a3 Nbd7 14.Nb3 Nb6 15.Nd2 O-O
+16.Re1 Nfd7 17.a4 b4 18.Nd5 Bxd5 19.exd5 a5 20.b3 f5 21.Nf1 Bg5 22.Rc1 
+Bxe3 23.Rxe3 f4 24.Re1 fxg3 25.fxg3 Qg5 26.c3 bxc3 27.Re3 Rxf1+ 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Lutikov, Anatoly"]
+[Black "Gliksman, Darko"]
+[Result "1/2-1/2"]
+[ECO "B53"]
+[EventDate "1969.03.20"]
+[PlyCount "29"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Bg5 Nf6 8.
+Nc3 e6 9.O-O-O Be7 10.Rhe1 O-O 11.Qd2 h6 12.Bh4 Nxe4 13.Nxe4 Bxh4 14.Nxh4 
+Qxh4 15.g3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Mestrovic, Zvonimir"]
+[Black "Matulovic, Milan"]
+[Result "1-0"]
+[ECO "B07"]
+[EventDate "1969.03.20"]
+[PlyCount "147"]
+
+1.e4 d6 2.d4 g6 3.Nc3 Bg7 4.Be2 Nf6 5.h4 O-O 6.h5 c5 7.hxg6 hxg6 8.dxc5 
+Qa5 9.Kf1 Qxc5 10.Be3 Qa5 11.Qd2 Re8 12.Bh6 Bh8 13.Qf4 Be6 14.Qh4 Nbd7 15.
+g4 Rac8 16.Rd1 Nh7 17.Bd2 Ndf8 18.Nf3 Bf6 19.Qh3 Qb6 20.Bc1 Bc4 21.Bd3 Qc6
+22.Ng5 Bxg5 23.Bxg5 f5 24.Bh6 fxe4 25.Bxf8 Nxf8 26.Bxc4+ Qxc4+ 27.Kg1 Rc5 
+28.Qh8+ Kf7 29.Rd4 Qe6 30.Rxe4 Qf6 31.Qh2 Ne6 32.Re3 Rc4 33.Qh7+ Qg7 34.
+Qh3 Rf8 35.Qf3+ Qf6 36.Qd5 Rxg4+ 37.Kf1 Kg7 38.Rh2 Nc5 39.Qh1 Rf4 40.Rxe7+
+Kg8 41.Qd5+ Rf7 42.Rxf7 Qxf7 43.Qxd6 Rf5 44.Qd8+ Qf8 45.Qxf8+ Rxf8 46.Rh3 
+Rd8 47.Re3 Kf7 48.Re1 Rd2 49.Re2 Rd4 50.Re5 b6 51.Rd5 Rc4 52.Rd6 Na4 53.
+Nxa4 Rxa4 54.a3 Ra5 55.Rc6 g5 56.Kg2 Ke7 57.Kg3 Kd7 58.Rg6 Rc5 59.c3 Rd5 
+60.Rg7+ Kd6 61.Rxa7 Rd2 62.b4 Rc2 63.a4 Rxc3+ 64.Kg4 Rc2 65.f3 Rg2+ 66.Kh5
+Rg3 67.Rb7 Kc6 68.Rf7 Rg1 69.a5 Kb5 70.Rf5+ Kxb4 71.axb6 Kc4 72.Rxg5 Rb1 
+73.Rg6 Kd4 74.f4 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Uhlmann, Wolfgang"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[EventDate "1969.03.20"]
+[PlyCount "97"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Bg4 4.Bb2 Nd7 5.e3 e6 6.Be2 Ngf6 7.O-O Bd6 8.d3 O-O 
+9.Nbd2 Qe7 10.Re1 Ba3 11.Qc1 Bxb2 12.Qxb2 Rfd8 13.d4 Re8 14.h3 Bh5 15.b4 
+Bxf3 16.Nxf3 a6 17.c5 e5 18.a4 exd4 19.exd4 Qd8 20.b5 axb5 21.axb5 Qc7 22.
+b6 Qf4 23.g3 Qf5 24.Rxa8 Rxa8 25.Kg2 Nf8 26.Bd1 N6d7 27.Nh2 h5 28.Nf3 Ne6 
+29.Ne5 Nxe5 30.Rxe5 Qd3 31.Bxh5 g6 32.Bg4 Qxd4 33.Qe2 Nxc5 34.Re7 Qf6 35.
+Rc7 d4 36.Qc4 Ra5 37.Qe2 Ra8 38.Qc4 Ra5 39.Qe2 Kg7 40.Rc8 Ne6 41.Bxe6 Qxe6
+42.Qxe6 fxe6 43.Rc7+ Kf6 44.Rxb7 Rb5 45.Rd7 Ke5 46.b7 c5 47.f3 Rb2+ 48.Kf1
+c4 49.Ke1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.26"]
+[Round "6"]
+[White "Vukic, Milan"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[ECO "E14"]
+[EventDate "1969.03.20"]
+[PlyCount "81"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.e3 Bb7 6.Bd3 O-O 7.O-O d5 8.a3 Be7
+9.b3 Nbd7 10.Bb2 c5 11.Qe2 Ne4 12.cxd5 exd5 13.Ba6 Bxa6 14.Qxa6 Nxd2 15.
+Nxd2 Bf6 16.Nf3 Qe7 17.Rfd1 Qe6 18.Rac1 h6 19.a4 Rfb8 20.Ba3 g5 21.h3 h5 
+22.Qe2 g4 23.hxg4 hxg4 24.Nh2 g3 25.Qg4+ Kh7 26.Qxg3 Rg8 27.Qf3 Rg5 28.Kf1
+Rag8 29.Qh3+ Qxh3 30.gxh3 cxd4 31.Nf3 Rh5 32.Nxd4 Rxh3 33.Ke2 Rg2 34.Nf3 
+Ne5 35.Nxe5 Bxe5 36.Rxd5 Bg3 37.Rf5 Kg6 38.Rf3 Rhh2 39.Rc6+ Kh5 40.Rcf6 
+Bh4 41.Rxf7 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Barczay, Laszlo"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B93"]
+[EventDate "1969.03.20"]
+[PlyCount "37"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Qc7 8.Bd3 
+Nbd7 9.O-O b5 10.Qe1 Bb7 11.a3 Be7 12.Nh4 g6 13.f5 O-O 14.Bh6 Rfe8 15.fxg6
+fxg6 16.Kh1 Bf8 17.Qd2 Qd8 18.Bg5 Be7 19.Nf3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Damjanovic, Mato"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "A48"]
+[EventDate "1969.03.20"]
+[PlyCount "75"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 O-O 5.c3 d6 6.e3 Nbd7 7.Bc4 c5 8.O-O 
+Qc7 9.Rc1 b6 10.e4 e5 11.dxe5 dxe5 12.Re1 Bb7 13.a4 a6 14.b4 cxb4 15.cxb4 
+Qd6 16.Qb3 a5 17.Bxf6 Bxf6 18.bxa5 Rxa5 19.Bb5 Nc5 20.Qc2 Ra7 21.Nc4 Qe6 
+22.Nxb6 Nxe4 23.Nd7 Rd8 24.Qc7 Ng5 25.Nd4 Qe7 26.h4 Ne6 27.Nxf6+ Qxf6 28.
+Nxe6 fxe6 29.Qb6 Qxh4 30.Qxe6+ Kg7 31.Qxe5+ Kh6 32.Qe3+ Qg5 33.Qxg5+ Kxg5 
+34.Re7 h5 35.Rcc7 Rb8 36.Rf7 h4 37.Kh2 h3 38.f4+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Gliksman, Darko"]
+[Black "Vukic, Milan"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[EventDate "1969.03.20"]
+[PlyCount "25"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.dxc5 Qa5 8.Bd3 Qxc5
+9.Qe2 Nc6 10.Be3 Qh5 11.h3 Ng4 12.Bd2 Nf6 13.O-O 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Hennings, Artur"]
+[Black "Lutikov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[EventDate "1969.03.20"]
+[PlyCount "29"]
+
+1.e4 Nc6 2.Nc3 e5 3.Bc4 Nf6 4.d3 Na5 5.Nge2 Nxc4 6.dxc4 Bc5 7.O-O d6 8.Qd3
+O-O 9.Bg5 h6 10.Bxf6 Qxf6 11.Nd5 Qd8 12.b4 Bb6 13.a4 c6 14.Nxb6 axb6 15.
+Rfd1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Korchnoi, Viktor"]
+[Black "Bukal, Vladimir"]
+[Result "1-0"]
+[ECO "E63"]
+[EventDate "1969.03.20"]
+[PlyCount "113"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nf3 Nc6 7.O-O a6 8.h3 Rb8 
+9.Be3 Bf5 10.Rc1 Ne4 11.Nxe4 Bxe4 12.d5 Bxf3 13.exf3 Ne5 14.f4 Nd7 15.Qc2 
+c5 16.dxc6 bxc6 17.b3 Rc8 18.f5 Qa5 19.fxg6 hxg6 20.Bd2 Qf5 21.Qxf5 gxf5 
+22.Rcd1 Rfe8 23.Be3 Bc3 24.Bc1 Nc5 25.h4 Red8 26.Bg5 Rd7 27.Be3 Ne4 28.g4 
+Bf6 29.gxf5 Nc3 30.Rd2 d5 31.Rc1 d4 32.Rxc3 dxe3 33.Rxd7 exf2+ 34.Kxf2 
+Bxc3 35.Rxe7 Bf6 36.Re4 c5 37.Rg4+ Kh7 38.Bd5 Rc7 39.Re4 Kg7 40.Kf3 a5 41.
+h5 Re7 42.Rxe7 Bxe7 43.Ke4 Bf6 44.Bc6 Bc3 45.Kd5 Bb4 46.Be8 Kf8 47.h6 Kxe8
+48.h7 Bc3 49.Kxc5 Kf8 50.Kb5 Kg7 51.c5 Kxh7 52.c6 Be5 53.Kxa5 Kg7 54.b4 
+Kf6 55.b5 Kxf5 56.b6 Ke6 57.Ka6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Kovacs, Laszlo"]
+[Black "Uhlmann, Wolfgang"]
+[Result "0-1"]
+[ECO "C00"]
+[EventDate "1969.03.20"]
+[PlyCount "70"]
+
+1.e4 e6 2.Qe2 c5 3.f4 Nc6 4.Nf3 Be7 5.g3 d5 6.d3 Nf6 7.Bg2 O-O 8.O-O b5 9.
+e5 Nd7 10.c3 Nb6 11.d4 b4 12.dxc5 Bxc5+ 13.Kh1 a5 14.Rd1 Ba6 15.Qe1 bxc3 
+16.Nxc3 Nb4 17.Ne4 dxe4 18.Rxd8 Raxd8 19.Be3 Bxe3 20.Qxe3 exf3 21.Qxf3 Rd2
+22.a3 N4d5 23.b4 a4 24.Rc1 Rc8 25.Rxc8+ Nxc8 26.h4 Nce7 27.Bf1 Bxf1 28.
+Qxf1 Nf5 29.Qf3 h5 30.Kg1 Rb2 31.Qd3 Nde3 32.Qd8+ Kh7 33.Qa8 Rg2+ 34.Qxg2 
+Nxg2 35.Kxg2 Nd4 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Matulovic, Milan"]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "B05"]
+[EventDate "1969.03.20"]
+[PlyCount "83"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nf3 d6 4.d4 Bg4 5.Be2 e6 6.O-O Be7 7.h3 Bh5 8.c4 Nb6 
+9.exd6 cxd6 10.Nbd2 Nc6 11.b3 O-O 12.Bb2 a5 13.a3 d5 14.c5 Nd7 15.Bc3 Bxf3
+16.Nxf3 e5 17.b4 axb4 18.axb4 exd4 19.Nxd4 Bf6 20.Qd2 Bxd4 21.Bxd4 Qh4 22.
+Bc3 Rxa1 23.Rxa1 Nf6 24.Bf3 Rc8 25.Bxd5 Nxd5 26.Qxd5 Rd8 27.Re1 h6 28.Qf3 
+Qc4 29.Qg3 g5 30.Qf3 Qf4 31.Qxf4 gxf4 32.Re4 Rd1+ 33.Kh2 Rd3 34.Be1 Rd1 
+35.b5 Nd4 36.c6 bxc6 37.b6 c5 38.b7 Nc6 39.Re8+ Kh7 40.Bc3 Rc1 41.Rh8+ Kg6
+42.Rc8 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.27"]
+[Round "7"]
+[White "Parma, Bruno"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[EventDate "1969.03.20"]
+[PlyCount "39"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 h6 10.d4 Re8 11.a3 Bf8 12.Bc2 Bb7 13.Nbd2 d5 14.dxe5 Nxe5 15.Nxe5 
+Rxe5 16.f4 Bc5+ 17.Kh1 Re8 18.e5 Qe7 19.Nb3 Ne4 20.Bxe4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Bogdanovic, Rajko"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "B49"]
+[EventDate "1969.03.20"]
+[PlyCount "79"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 5.Nc3 e6 6.f4 a6 7.Be2 b5 8.Nxc6 
+Qxc6 9.Bf3 Bb7 10.Be3 Rc8 11.a3 Ne7 12.Qd2 Ng6 13.g3 b4 14.axb4 Bxb4 15.
+O-O O-O 16.Bd4 d6 17.e5 Qd7 18.exd6 Rfd8 19.Qg2 Bxf3 20.Qxf3 Qxd6 21.Rfd1 
+Bc5 22.Bxc5 Qxc5+ 23.Qf2 Rxd1+ 24.Rxd1 Qb4 25.f5 exf5 26.Qxf5 Qb6+ 27.Kg2 
+Re8 28.Qd7 Rf8 29.b3 Qc5 30.Qd4 Qc6+ 31.Kg1 h5 32.Rd3 Re8 33.Re3 Rxe3 34.
+Qxe3 h4 35.Qd3 h3 36.Nd5 Qe6 37.Ne3 Qf6 38.Qf5 Qc3 39.Qd3 Qc5 40.Qd8+ 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Bukal, Vladimir"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "D30"]
+[EventDate "1969.03.20"]
+[PlyCount "78"]
+
+1.g3 Nf6 2.Bg2 d5 3.c4 e6 4.Nf3 Be7 5.b3 O-O 6.Bb2 c5 7.O-O Nc6 8.cxd5 
+exd5 9.d4 Ne4 10.dxc5 Bxc5 11.Nd4 Bg4 12.Nxc6 bxc6 13.Nd2 Ng5 14.Qc1 Qe7 
+15.e3 Rac8 16.Qc3 f5 17.a3 Bh3 18.Qe5 Qd7 19.Bxh3 Nxh3+ 20.Kg2 Ng5 21.Rad1
+Bd6 22.Qd4 Rce8 23.Qd3 f4 24.exf4 Qh3+ 25.Kg1 Bxf4 26.Qc3 Be5 27.Qxc6 Bxb2
+28.Qxd5+ Nf7 29.Nc4 Bf6 30.Rfe1 Rd8 31.Qb7 Bd4 32.Qe7 Qh5 33.Kh1 Qc5 34.f4
+a5 35.Qe4 a4 36.Nd2 Bc3 37.Re2 axb3 38.Qb1 Qd5+ 39.Kg1 Rfe8 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[EventDate "1969.03.20"]
+[PlyCount "62"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O
+9.Qe2 Bg4 10.h3 Bh5 11.Rd1 Nbd7 12.e4 Qe7 13.g4 Bg6 14.Bg5 h6 15.Bh4 Qe8 
+16.Bd3 Nh7 17.Bg3 Ng5 18.Nxg5 hxg5 19.e5 Bxd3 20.Rxd3 Bxc3 21.bxc3 Qe7 22.
+c4 Rfd8 23.Rb1 Nf8 24.Qe4 Rd7 25.d5 cxd5 26.cxd5 exd5 27.Rxd5 Rad8 28.Rxb7
+Rxb7 29.Rxd8 Qxd8 30.Qxb7 Qd1+ 31.Kh2 Qxa4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Janosevic, Dragoljub"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[ECO "B35"]
+[EventDate "1969.03.20"]
+[PlyCount "56"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 
+a5 9.a4 Ng4 10.Qxg4 Nxd4 11.Qd1 Nxb3 12.cxb3 d6 13.Qd2 Be6 14.Nd5 Bxd5 15.
+exd5 Qd7 16.O-O b5 17.Bd4 Bxd4 18.Qxd4 Rfb8 19.Qc3 Rc8 20.Qd2 Rc5 21.b4 
+axb4 22.a5 Qb7 23.Rfd1 b3 24.Qd3 Qc7 25.Qd2 Rc2 26.Qb4 Qc5 27.Qxc5 dxc5 
+28.Rdb1 Ra6 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Kovacs, Laszlo"]
+[Black "Korchnoi, Viktor"]
+[Result "0-1"]
+[ECO "C01"]
+[EventDate "1969.03.20"]
+[PlyCount "51"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nc6 5.c3 Bd6 6.Qf3 Nce7 7.Bf4 Nf6 8.h3 
+Bxf4 9.Qxf4 O-O 10.Ne2 Ng6 11.Qh2 Re8 12.O-O Bf5 13.Bxf5 Rxe2 14.b3 Qe7 
+15.Bd3 Rb2 16.Qg3 Re8 17.Qg5 Ne4 18.Qc1 Rxf2 19.Rxf2 Nxf2 20.Kxf2 Qf6+ 21.
+Kg1 Nf4 22.Bf1 Re2 23.Nd2 Nxh3+ 24.Kh2 Nf4 25.Kg3 Nd3 26.Ne4 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Mestrovic, Zvonimir"]
+[Black "Gliksman, Darko"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[EventDate "1969.03.20"]
+[PlyCount "35"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Ne7 6.O-O O-O 7.Bg5 f6 8.Bh4 
+Bf5 9.Bg3 Bxd3 10.Qxd3 Bxg3 11.hxg3 Nbc6 12.c3 Qd7 13.Nbd2 Qf5 14.Qxf5 
+Nxf5 15.Rfe1 Rfe8 16.Rxe8+ Rxe8 17.Re1 Rxe1+ 18.Nxe1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Uhlmann, Wolfgang"]
+[Black "Lutikov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[EventDate "1969.03.20"]
+[PlyCount "65"]
+
+1.d4 Nf6 2.c4 Nc6 3.Nf3 d6 4.d5 Ne5 5.Nxe5 dxe5 6.Nc3 e6 7.e4 Bc5 8.Be2 
+O-O 9.O-O exd5 10.cxd5 Bd4 11.Nb5 Bb6 12.Qc2 Ne8 13.Bd2 Nd6 14.Rac1 Bd7 
+15.Nxd6 cxd6 16.Qb3 f5 17.exf5 Bxf5 18.Rc4 Rc8 19.Be3 Bxe3 20.Qxe3 Qa5 21.
+a3 Rxc4 22.Bxc4 Rc8 23.Bd3 Bxd3 24.Qxd3 Qc7 25.h4 Qf7 26.g3 Rc5 27.Rd1 g6 
+28.b4 Rc8 29.Qe3 a6 30.Rc1 Rxc1+ 31.Qxc1 Qxd5 32.Qc8+ Kg7 33.Qc7+ 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.28"]
+[Round "8"]
+[White "Vukic, Milan"]
+[Black "Hennings, Artur"]
+[Result "1-0"]
+[ECO "D17"]
+[EventDate "1969.03.20"]
+[PlyCount "91"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4 8.Nxc4 O-O
+9.Bg5 h6 10.Bh4 c5 11.dxc5 Qxd1+ 12.Rxd1 Bc2 13.Ra1 Nd5 14.Kd2 Bh7 15.e4 
+Nd7 16.exd5 exd5 17.Nd6 d4 18.Nxb7 Nxc5 19.Nxc5 dxc3+ 20.bxc3 Bxc5 21.Bb5 
+g5 22.Bg3 a6 23.Bc4 Rad8+ 24.Kc1 Be3+ 25.Kb2 Rd2+ 26.Kb3 a5 27.Ra2 Rxa2 
+28.Kxa2 Rd8 29.Re1 Rd2+ 30.Ka1 Bf4 31.Bxf4 gxf4 32.Re2 Rd1+ 33.Kb2 Rb1+ 
+34.Ka2 Rc1 35.Kb3 Rb1+ 36.Rb2 Rxb2+ 37.Kxb2 Kf8 38.Bd5 Ke7 39.c4 Bd3 40.c5
+f5 41.Kc3 Bf1 42.Kd4 Bxg2 43.Ke5 Kd7 44.Kxf4 Bh3 45.Bc4 Kc6 46.Bb5+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Barczay, Laszlo"]
+[Black "Bukal, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[EventDate "1969.03.20"]
+[PlyCount "35"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 d6 5.Nc3 Nc6 6.g3 Bd7 7.Bg2 Nxd4 8.Qxd4 
+Bc6 9.O-O Nf6 10.Rd1 Qc7 11.b3 a6 12.a4 Be7 13.Bb2 O-O 14.a5 Rfd8 15.Rd2 
+Bf8 16.Na4 d5 17.Rad1 dxe4 18.Qb6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Damjanovic, Mato"]
+[Black "Bogdanovic, Rajko"]
+[Result "1-0"]
+[ECO "A48"]
+[EventDate "1969.03.20"]
+[PlyCount "63"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 h6 5.Bh4 d6 6.e3 g5 7.Bg3 Nh5 8.Bc4 
+Nxg3 9.hxg3 e6 10.c3 Nd7 11.Qe2 Qe7 12.O-O-O a6 13.Nb3 c5 14.dxc5 dxc5 15.
+Bd3 Qd8 16.Nfd2 Qc7 17.Ne4 Ke7 18.Bc2 b5 19.Nd6 Rb8 20.f4 c4 21.Qh5 Rf8 
+22.Nd4 Qxd6 23.Nf5+ exf5 24.Rxd6 Kxd6 25.fxg5 hxg5 26.Qxg5 Bf6 27.Qxf5 Ke7
+28.Qe4+ Be5 29.Rh5 f6 30.Qc6 Rf7 31.Bf5 Bd6 32.Rh8 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Gliksman, Darko"]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "A76"]
+[EventDate "1969.03.20"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.Nf3 O-O 7.Be2 e6 8.O-O exd5 
+9.cxd5 Re8 10.Qc2 Na6 11.Bf4 Nh5 12.Bg5 f6 13.Be3 f5 14.Bg5 Nf6 15.Bb5 Bd7
+16.Bxd7 Qxd7 17.exf5 gxf5 18.Bxf6 Bxf6 19.Ne2 Nb4 20.Qd2 Kh8 21.Rfe1 Re4 
+22.a3 Na6 23.Ng3 Rxe1+ 24.Rxe1 Nc7 25.Nh5 Qf7 26.Qh6 Nxd5 27.Rd1 Bxb2 28.
+Ng5 Qg6 29.Rxd5 Bc1 30.f4 Qxh6 31.Nf7+ Kg8 32.Nxh6+ Kf8 33.Rxd6 c4 34.Rd7 
+Rc8 35.Nf6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Hennings, Artur"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "B35"]
+[EventDate "1969.03.20"]
+[PlyCount "73"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Bd7 7.O-O g6 8.h3 
+Bg7 9.Be3 O-O 10.Bb3 Rc8 11.Re1 Qa5 12.Nd5 Nxd5 13.exd5 Ne5 14.Bd2 Qc5 15.
+Bc3 b5 16.a3 Rfe8 17.Ne2 Nc4 18.Bxc4 Qxc4 19.Qd2 Bxc3 20.Nxc3 a5 21.Re4 
+Qc5 22.Qh6 Bf5 23.Rh4 g5 24.Qxg5+ Bg6 25.Rc1 b4 26.axb4 axb4 27.Nd1 Ra8 
+28.Ne3 Ra2 29.Rc4 Qb5 30.b3 e6 31.Rd1 exd5 32.Nxd5 Re5 33.Qd8+ Kg7 34.Qf6+
+Kh6 35.Rh4+ Rh5 36.Rxh5+ Kxh5 37.Rd4 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Korchnoi, Viktor"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[EventDate "1969.03.20"]
+[PlyCount "55"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.d5 cxd5 5.cxd5 Qa5+ 6.Nc3 b5 7.Bg2 d6 8.a3 b4 
+9.Na2 bxa3+ 10.Bd2 Qd8 11.Qa4+ Qd7 12.Qxa3 Bg7 13.Nh3 Ne4 14.Bxe4 Qxh3 15.
+Nb4 O-O 16.Rc1 Nd7 17.Nd3 Nf6 18.Bf3 Qf5 19.Qa5 a6 20.O-O Rb8 21.Nb4 Re8 
+22.Qa3 h5 23.Rc4 Bb7 24.Rfc1 Ng4 25.e4 Qd7 26.Bxg4 Qxg4 27.f3 Qh3 28.Nd3 
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Lutikov, Anatoly"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B11"]
+[EventDate "1969.03.20"]
+[PlyCount "79"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bh5 5.exd5 cxd5 6.g4 Bg6 7.h4 f6 8.Bb5+ 
+Nc6 9.Nd4 Qd7 10.h5 Bf7 11.Qe2 a6 12.Ba4 e6 13.Nxc6 bxc6 14.d4 Bd6 15.Be3 
+Ne7 16.O-O-O Bb4 17.h6 g6 18.Qf3 f5 19.Ne2 Bd6 20.gxf5 Nxf5 21.Nf4 O-O 22.
+Nd3 Be8 23.Qg4 Nxe3 24.fxe3 Qe7 25.e4 Bd7 26.e5 Bc7 27.Rdf1 Bb6 28.c3 
+Rxf1+ 29.Rxf1 Rf8 30.Rxf8+ Qxf8 31.Bxc6 Qxh6+ 32.Kc2 Bc8 33.Bxd5 g5 34.Bf3
+Qg6 35.d5 Qf5 36.d6 Kg7 37.Qg2 h6 38.Bg4 Qf8 39.Qc6 Qd8 40.Bh5 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Matulovic, Milan"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[EventDate "1969.03.20"]
+[PlyCount "43"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bb7 13.Ng3 Na5 14.Bc2 Nc4 15.a4 d5 
+16.Nxe5 Nxe4 17.axb5 axb5 18.Rxa8 Bxa8 19.Nxc4 bxc4 20.Bxe4 dxe4 21.Qa4 
+Bd5 22.f3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.30"]
+[Round "9"]
+[White "Parma, Bruno"]
+[Black "Kovacs, Laszlo"]
+[Result "1-0"]
+[ECO "C94"]
+[EventDate "1969.03.20"]
+[PlyCount "65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 
+9.h3 Nb8 10.d3 Nbd7 11.Nbd2 c6 12.Nf1 Nc5 13.Bc2 Re8 14.d4 Ncd7 15.Ng3 g6 
+16.Bh6 Bf8 17.Qd2 Bxh6 18.Qxh6 Qe7 19.b4 Nb6 20.a4 Bb7 21.Bb3 bxa4 22.Ba2 
+Bc8 23.c4 Nbd7 24.c5 a5 25.Ng5 Rf8 26.Re3 exd4 27.Nh5 gxh5 28.Rg3 Qe5 29.
+Nxh7+ Ng4 30.hxg4 h4 31.Rf3 d3 32.Rb1 Ba6 33.Rf5 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Bogdanovic, Rajko"]
+[Black "Gliksman, Darko"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[EventDate "1969.03.20"]
+[PlyCount "41"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O 
+O-O 9.Be3 Qc7 10.a4 Be6 11.f4 exf4 12.Rxf4 Nbd7 13.Nd4 Ne5 14.a5 Rfe8 15.
+Nf5 Bf8 16.Bb6 Qc6 17.Ne3 Nfd7 18.Bd4 Rac8 19.Ncd5 Bxd5 20.exd5 Qc7 21.c3 
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Bukal, Vladimir"]
+[Black "Matulovic, Milan"]
+[Result "0-1"]
+[ECO "A48"]
+[EventDate "1969.03.20"]
+[PlyCount "113"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 O-O 5.c3 d6 6.e3 Nbd7 7.Bc4 e5 8.Ne4 
+Qe8 9.Nxf6+ Bxf6 10.Bxf6 Nxf6 11.dxe5 dxe5 12.O-O Qe7 13.Qb3 Bg4 14.h3 
+Bxf3 15.gxf3 Ne8 16.Rad1 Nd6 17.Bd3 Rae8 18.Kh2 Kh8 19.Qb4 f5 20.Bb5 Rd8 
+21.f4 a5 22.Qxa5 b6 23.Qa4 Ra8 24.Qb3 exf4 25.exf4 Qh4 26.Bc6 Qxf4+ 27.Kg2
+Ra5 28.Rd5 b5 29.Rd4 Qg5+ 30.Kh2 f4 31.Qe6 Ra6 32.Rd5 Qf6 33.Qxf6+ Rxf6 
+34.Bxb5 Rxa2 35.Rb1 Rf8 36.Bd3 Rb8 37.c4 Rbxb2 38.Rxb2 Rxb2 39.c5 Nf7 40.
+Kg2 Rd2 41.Kf1 c6 42.Ke1 Rb2 43.Rd4 Ne5 44.Be4 f3 45.Kf1 Rb5 46.Ke1 Rb2 
+47.Kf1 Kg7 48.Ra4 Kf6 49.Ra3 Nc4 50.Rxf3+ Ke5 51.Bxc6 Nd2+ 52.Kg2 Nxf3 53.
+Bxf3 Rc2 54.c6 Kf4 55.Bd5 Rc5 56.Bf3 h6 57.c7 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Gligoric, Svetozar"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "E49"]
+[EventDate "1969.03.20"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 O-O 7.cxd5 exd5 8.Bd3
+c5 9.Ne2 b6 10.O-O Ba6 11.f3 Bxd3 12.Qxd3 Re8 13.Ng3 Nc6 14.Bb2 Rc8 15.
+Rae1 cxd4 16.cxd4 Qc7 17.e4 Ne7 18.e5 Nd7 19.Rc1 Qb7 20.f4 Rxc1 21.Bxc1 f6
+22.e6 Nb8 23.f5 Qa6 24.Qxa6 Nxa6 25.Nh5 Rc8 26.g4 Nc7 27.a4 Nc6 28.Be3 Na5
+29.g5 Ne8 30.gxf6 Nxf6 31.Nxf6+ gxf6 32.Bh6 Nc6 33.Kf2 Kh8 34.Rc1 Ne7 35.
+Rxc8+ Nxc8 36.Bf8 Kg8 37.Ba3 a5 38.Ke3 Kg7 39.Kf4 Na7 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Janosevic, Dragoljub"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[EventDate "1969.03.20"]
+[PlyCount "80"]
+
+1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Na5 5.Bg5 Nxc4 6.dxc4 Bb4 7.Ne2 d6 8.O-O 
+Bxc3 9.Nxc3 h6 10.Bxf6 Qxf6 11.f4 Be6 12.Nd5 Bxd5 13.Qxd5 c6 14.Qd2 exf4 
+15.Rad1 O-O 16.b3 Rae8 17.Rxf4 Qg5 18.Qf2 Re6 19.h4 Qa5 20.a4 Qb6 21.c5 
+Qc7 22.cxd6 Rxd6 23.Rf1 Qb6 24.Qxb6 axb6 25.e5 Re6 26.Rb4 c5 27.Rb5 Rd8 
+28.a5 Rd2 29.Rf2 Rxf2 30.Kxf2 bxa5 31.Rxc5 b6 32.Rd5 Kf8 33.c4 Rc6 34.Ke3 
+a4 35.Kd4 axb3 36.Rb5 Ke7 37.Rxb3 f6 38.Re3 fxe5+ 39.Rxe5+ Kd7 40.h5 g6 
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Korchnoi, Viktor"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[EventDate "1969.03.20"]
+[PlyCount "82"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 c5 4.g3 Nc6 5.Bg2 Be7 6.d4 d5 7.cxd5 Nxd5 8.O-O 
+O-O 9.Nxd5 exd5 10.Be3 c4 11.Ne5 f6 12.Nxc6 bxc6 13.b3 Ba6 14.Bf4 Qd7 15.
+Qd2 Rfe8 16.Rfd1 Bf8 17.Qa5 Qc8 18.Bh3 Qxh3 19.Qxa6 Qc8 20.Qxc8 Raxc8 21.
+Rd2 Bb4 22.Rc2 c5 23.Bd6 Re6 24.Bxc5 Bxc5 25.dxc5 Rxc5 26.Kg2 Kf7 27.Kf3 
+Re4 28.Rac1 Ke6 29.e3 g5 30.h3 f5 31.Ke2 f4 32.bxc4 Rexc4 33.Rxc4 dxc4 34.
+exf4 gxf4 35.gxf4 Kd5 36.Ke3 Ra5 37.Rd1+ Kc5 38.Rd2 Ra3+ 39.Ke4 Rxh3 40.f5
+c3 41.Re2 Kd6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Kovacs, Laszlo"]
+[Black "Barczay, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[EventDate "1969.03.20"]
+[PlyCount "32"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.Nc3 O-O 6.Qc2 d5 7.e3 b6 8.cxd5 
+exd5 9.Bd3 Bxc3 10.Bxc3 Ba6 11.Ne5 Bxd3 12.Qxd3 Nfd7 13.O-O Qe8 14.Nf3 Na6
+15.Rfc1 Qe4 16.Qb5 Rfd8 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Mestrovic, Zvonimir"]
+[Black "Lutikov, Anatoly"]
+[Result "0-1"]
+[ECO "A80"]
+[EventDate "1969.03.20"]
+[PlyCount "82"]
+
+1.d4 f5 2.Nc3 d5 3.g3 Nf6 4.Bg5 e6 5.Bg2 c5 6.Nf3 Nc6 7.O-O Be7 8.Na4 c4 
+9.b3 b5 10.Nb2 Ba3 11.Rb1 Bd7 12.Ne5 Rc8 13.g4 fxg4 14.e4 Ne7 15.Bxf6 gxf6
+16.Nxd7 Qxd7 17.Qxg4 dxe4 18.Qxe4 f5 19.Qe3 Rg8 20.bxc4 Bxb2 21.Rxb2 Rxc4 
+22.Kh1 Qxd4 23.Qxd4 Rxd4 24.Rxb5 Kf7 25.Ra5 Rc8 26.Rc1 Rc7 27.c3 Rd2 28.
+Kg1 Ng6 29.c4 Nf4 30.Bf1 Kf6 31.f3 Rg7+ 32.Kh1 Rd8 33.c5 Rdg8 34.h3 Rg1+ 
+35.Kh2 Nxh3 36.Rc2 Rxf1 37.Kxh3 Rxf3+ 38.Kh2 Rf4 39.Kh1 Rh4+ 40.Rh2 Rxh2+ 
+41.Kxh2 Rg7 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.03.31"]
+[Round "10"]
+[White "Uhlmann, Wolfgang"]
+[Black "Vukic, Milan"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[EventDate "1969.03.20"]
+[PlyCount "42"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Bg5 Nbd7 8.O-O h6 
+9.Bh4 g5 10.dxe5 dxe5 11.Bg3 Nh5 12.Bxe5 Bxe5 13.Nxe5 Nxe5 14.Bxh5 Qxd1 
+15.Nxd1 Nxc4 16.Rc1 Be6 17.b3 Nd2 18.Re1 c6 19.f3 a5 20.Nc3 b5 21.Ne2 a4 
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Barczay, Laszlo"]
+[Black "Korchnoi, Viktor"]
+[Result "0-1"]
+[ECO "B33"]
+[EventDate "1969.03.20"]
+[PlyCount "119"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.Bf4 e5 7.Be3 a6 8.N5a3 
+Nf6 9.Nc3 Rb8 10.Nd5 Nxd5 11.exd5 Ne7 12.Qd2 Nf5 13.Nc4 Nxe3 14.Nxe3 Be7 
+15.g3 O-O 16.O-O-O Bg5 17.h4 Bh6 18.Kb1 b5 19.Qe2 f5 20.Bh3 Rb7 21.Qd3 Qf6
+22.Rdf1 e4 23.Qb3 Qe5 24.f4 exf3 25.Rxf3 Re7 26.Nd1 Bd7 27.a3 a5 28.Rhf1 
+a4 29.Qd3 g6 30.h5 Rc8 31.hxg6 hxg6 32.Nf2 Bg7 33.c3 Rc5 34.Rd1 Be8 35.Bg2
+Bf7 36.Rf4 Bh6 37.Rb4 Qe2 38.Qxe2 Rxe2 39.Nd3 Rc8 40.Bf1 Re3 41.Nf4 g5 42.
+Ne6 Bh5 43.Rc1 Bf3 44.Bxb5 Bxd5 45.Nd4 Be4+ 46.Ka1 Rxg3 47.Bxa4 Bg7 48.
+Bb3+ Kh7 49.Ne6 Bh6 50.Rf1 g4 51.Nd4 Rf8 52.Ne6 Re8 53.Rd4 Rf3 54.Rh1 Rh3 
+55.Rg1 g3 56.Nc7 Rf8 57.Rxe4 fxe4 58.Bc2 Be3 59.Bxe4+ Kh8 60.Rd1 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Damjanovic, Mato"]
+[Black "Bukal, Vladimir"]
+[Result "1-0"]
+[ECO "A48"]
+[EventDate "1969.03.20"]
+[PlyCount "69"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 O-O 5.c3 d6 6.e4 Nbd7 7.Bc4 e5 8.O-O h6
+9.Bh4 Qe7 10.Re1 g5 11.Bg3 Nh7 12.Nb3 h5 13.h3 Nb6 14.Be2 f5 15.exf5 e4 
+16.Bf1 h4 17.Bh2 Bxf5 18.Nfd2 Qf7 19.f3 exf3 20.Qxf3 Rab8 21.a4 Qg6 22.a5 
+Bc2 23.Qg4 Bf5 24.Qe2 Nd7 25.Qc4+ Kh8 26.Qxc7 g4 27.hxg4 Bxg4 28.Re7 Qg5 
+29.Kh1 Rbc8 30.Qxd6 Ndf6 31.Rae1 Rc6 32.Qe5 Ne4 33.Rxe4 Bxe5 34.Bxe5+ Kg8 
+35.Rxg4 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Gliksman, Darko"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[EventDate "1969.03.20"]
+[PlyCount "38"]
+
+1.g3 d5 2.Nf3 c6 3.Bg2 Nf6 4.O-O Bg4 5.c4 e6 6.b3 Nbd7 7.Bb2 Be7 8.d3 O-O 
+9.Qc2 Rc8 10.Nbd2 Nc5 11.Rfe1 h6 12.Ne5 Bf5 13.b4 Ncd7 14.Nxd7 Qxd7 15.Qb3
+Rfd8 16.Nf3 Qe8 17.cxd5 cxd5 18.Rac1 Rxc1 19.Rxc1 Rc8 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Hennings, Artur"]
+[Black "Bogdanovic, Rajko"]
+[Result "0-1"]
+[ECO "B52"]
+[EventDate "1969.03.20"]
+[PlyCount "94"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c4 g6 7.d4 cxd4 8.
+Nxd4 Bg7 9.Be3 Nf6 10.f3 O-O 11.Nc3 Rac8 12.b3 e6 13.Rc1 Rfd8 14.Qd2 d5 
+15.exd5 exd5 16.Nxc6 bxc6 17.cxd5 cxd5 18.Rfd1 d4 19.Bxd4 Ne8 20.Bxg7 Qxd2
+21.Rxd2 Rxd2 22.Bh6 Rd3 23.Ne2 Rxc1+ 24.Nxc1 Rc3 25.Kf1 Rc2 26.a4 Nd6 27.
+Bf4 Nf5 28.Ne2 Rb2 29.g4 Ng7 30.Nc1 Ne6 31.Be3 a6 32.h4 f5 33.gxf5 gxf5 
+34.Ke1 f4 35.Bb6 h5 36.a5 Kf7 37.Nd3 Rxb3 38.Ne5+ Kf6 39.Nd7+ Kf5 40.Ke2 
+Rb5 41.Nb8 Nd4+ 42.Kd3 Nxf3 43.Nxa6 Ne5+ 44.Kc3 f3 45.Nc7 Rxa5 46.Bxa5 f2 
+47.Nd5 Ng4 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Lutikov, Anatoly"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[EventDate "1969.03.20"]
+[PlyCount "114"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.Nb3 a6 7.Bd3 Nf6 8.O-O 
+Be7 9.f4 d5 10.Qf3 dxe4 11.Nxe4 Nb4 12.Be3 Bd7 13.Nxf6+ Bxf6 14.Be4 Bc6 
+15.Bc5 Be7 16.Bxe7 Qxe7 17.Rae1 O-O 18.f5 Qg5 19.c3 exf5 20.Qxf5 Qxf5 21.
+Bxf5 Nd5 22.Nd4 Rfd8 23.Re5 Rab8 24.Bc2 Re8 25.Rfe1 Kf8 26.Bb3 Nf6 27.Nxc6
+bxc6 28.Kf1 Ng4 29.Rf5 h6 30.h3 Rxe1+ 31.Kxe1 Re8+ 32.Kd2 Ne5 33.Rf4 Rd8+ 
+34.Ke3 Rd3+ 35.Ke2 Rg3 36.Kf2 Rd3 37.Rd4 Ke7 38.Bc2 Rxd4 39.cxd4 Nc4 40.b4
+Na3 41.Bb3 f5 42.Ke3 g5 43.Kd3 Kd6 44.Bf7 Ke7 45.Bg6 Ke6 46.Be8 Kd6 47.g3 
+Nb5 48.Bg6 f4 49.gxf4 gxf4 50.Bf7 f3 51.Bc4 Na3 52.Bxa6 Kd5 53.Bc8 Nb5 54.
+Bf5 Nxd4 55.Be4+ Ke5 56.a4 c5 57.bxc5 Ne6 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Matulovic, Milan"]
+[Black "Kovacs, Laszlo"]
+[Result "1-0"]
+[ECO "C88"]
+[EventDate "1969.03.20"]
+[PlyCount "75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4 
+9.d4 d6 10.dxe5 dxe5 11.Nbd2 Bg4 12.h3 Bh5 13.g4 Bg6 14.Qe2 Qd7 15.c3 Rfd8
+16.Nh4 Na5 17.Nxg6 hxg6 18.Bc2 Qc6 19.Nb3 Nb7 20.cxb4 Bxb4 21.Rf1 Nd7 22.
+Bg5 Rdb8 23.Rfc1 Qe6 24.Nd2 Na5 25.Rab1 Nc5 26.Nf3 Rb7 27.Rd1 f6 28.Be3 
+Qc4 29.Qxc4+ Nxc4 30.Bxc5 Bxc5 31.b4 Na3 32.Bb3+ Kh8 33.Rbc1 Rxb4 34.Bd5 
+Bxf2+ 35.Kxf2 Rd8 36.Rxc7 Rxa4 37.Rdc1 Nb5 38.Rc8 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Parma, Bruno"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[EventDate "1969.03.20"]
+[PlyCount "79"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 a6 5.dxc5 Bxc5 6.Bd3 Nc6 7.O-O Nge7 8.Nb3 
+Bd6 9.Qe2 Qc7 10.Bg5 dxe4 11.Bxe4 f6 12.Be3 e5 13.Rad1 Bf5 14.Nc5 Bxc5 15.
+Bxc5 Bxe4 16.Qxe4 O-O 17.Qe3 Kh8 18.Rd2 Nf5 19.Qb3 Rfe8 20.Bb6 Qc8 21.Re1 
+e4 22.Rde2 Nd6 23.Nd2 f5 24.f3 Qd7 25.fxe4 Nxe4 26.Nxe4 Rxe4 27.Rxe4 fxe4 
+28.Qc4 Re8 29.h3 Qe7 30.Be3 Qf6 31.b3 Qg6 32.Rf1 Ne5 33.Qe2 Nf3+ 34.Kh1 
+Qg3 35.Bf4 Qxf4 36.Rxf3 Qe5 37.Re3 b5 38.c3 h6 39.Qd2 Kh7 40.Kg1 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.01"]
+[Round "11"]
+[White "Vukic, Milan"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "A54"]
+[EventDate "1969.03.20"]
+[PlyCount "154"]
+
+1.Nf3 Nf6 2.g3 d6 3.d4 Nbd7 4.c4 e5 5.Nc3 Be7 6.Bg2 O-O 7.O-O h6 8.e4 Nh7 
+9.Nd5 Bg5 10.Nxg5 Nxg5 11.dxe5 dxe5 12.f4 Nh7 13.f5 c6 14.Nc3 Qb6+ 15.Rf2 
+Qd4 16.Qe2 Qd6 17.Be3 Qe7 18.Rd1 b6 19.Qc2 Bb7 20.Rfd2 Rfd8 21.h3 Ndf6 22.
+c5 Rxd2 23.Qxd2 Qc7 24.a4 Nf8 25.b4 N8d7 26.Qd6 Qxd6 27.Rxd6 Kf8 28.cxb6 
+axb6 29.Kf2 Ke7 30.Rd1 Ne8 31.g4 f6 32.Bf1 Nd6 33.Kf3 c5 34.b5 Nf8 35.Bd3 
+Nd7 36.Bc2 Nc4 37.Bc1 Nd6 38.Kg3 Nf8 39.h4 Nd7 40.Kf2 Nf8 41.Ke3 Nd7 42.
+Bb3 Ra7 43.Rg1 Nf7 44.Ke2 Ra8 45.g5 hxg5 46.hxg5 Nxg5 47.Bxg5 fxg5 48.Rxg5
+Kf8 49.Rh5 Ke7 50.Rh7 Kf6 51.Ke3 Rd8 52.Rh2 Ke7 53.Rh7 Kf6 54.Rh2 Ke7 55.
+Rg2 Kf8 56.Rd2 Ke7 57.Bd5 Rh8 58.Kd3 Bxd5 59.Nxd5+ Kf7 60.Kc4 Rh4 61.Nc3 
+Nf6 62.Re2 Ke8 63.a5 bxa5 64.Kxc5 Kd7 65.Rg2 Rh7 66.b6 Kc8 67.Kc6 Ne8 68.
+Rd2 Rh6+ 69.Kc5 Nf6 70.Kb5 Rh3 71.Nd5 Nxe4 72.Rc2+ Kd7 73.Ka6 Nd6 74.Rc7+ 
+Kd8 75.Rxg7 a4 76.f6 a3 77.b7 Nxb7 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Bogdanovic, Rajko"]
+[Black "Lutikov, Anatoly"]
+[Result "0-1"]
+[ECO "B00"]
+[EventDate "1969.03.20"]
+[PlyCount "78"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Bg4 4.d5 Nb8 5.Be2 Nf6 6.Nd4 Bd7 7.Nc3 c6 8.O-O 
+cxd5 9.exd5 g6 10.Bg5 Bg7 11.Qd2 O-O 12.Bh6 Qb6 13.Bxg7 Kxg7 14.Rfe1 Re8 
+15.Bf3 Na6 16.Nd1 Rac8 17.b3 Qb4 18.c3 Qc5 19.c4 b5 20.cxb5 Bxb5 21.Nxb5 
+Qxb5 22.Ne3 Qb4 23.Qe2 Nc7 24.Rec1 Nb5 25.Qd3 Nd4 26.Bd1 Qe1+ 27.Nf1 Qe5 
+28.Qa6 Ra8 29.Ne3 Nxd5 30.Nxd5 Qxd5 31.b4 Reb8 32.Rab1 Qe5 33.Bg4 h5 34.
+Re1 Qf6 35.Bd7 Rb6 36.Qc4 Rab8 37.a3 e5 38.Ba4 Qg5 39.Re3 R8b7 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Bukal, Vladimir"]
+[Black "Gliksman, Darko"]
+[Result "1-0"]
+[ECO "E74"]
+[EventDate "1969.03.20"]
+[PlyCount "78"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 g6 5.Nf3 Bg7 6.e4 O-O 7.Bg5 h6 8.Bf4 Re8 9.
+Be2 e6 10.dxe6 Rxe6 11.e5 Ne8 12.O-O Nc6 13.exd6 Nxd6 14.Qd2 Bxc3 15.bxc3 
+Ne4 16.Qxd8+ Nxd8 17.Bxh6 Nxc3 18.Bd3 Nc6 19.Rfe1 Nb4 20.Bf1 Bd7 21.a3 Nc6
+22.Be3 b6 23.Rac1 Ne4 24.g3 Re7 25.Red1 Bg4 26.Bg2 Rd8 27.Rxd8+ Nxd8 28.
+Re1 Nd6 29.Rc1 N8b7 30.Nd2 Be6 31.Bf4 Rd7 32.Bc6 Rd8 33.Bg5 Rc8 34.Bg2 Na5
+35.Bf1 Re8 36.Bf4 Nf5 37.Nf3 Rd8 38.Ng5 Rd7 39.Ne4 Rd8 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Gligoric, Svetozar"]
+[Black "Hennings, Artur"]
+[Result "1-0"]
+[ECO "D19"]
+[EventDate "1969.03.20"]
+[PlyCount "103"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O
+9.Qe2 Bg4 10.h3 Bh5 11.Rd1 Nbd7 12.e4 Qe7 13.g4 Bg6 14.Bg5 h6 15.Bh4 Qe8 
+16.Bd3 Nh7 17.Bg3 Ng5 18.Nxg5 hxg5 19.e5 Bxd3 20.Rxd3 Bxc3 21.bxc3 Qe7 22.
+Kg2 Rae8 23.Rh1 f5 24.exf6 Rxf6 25.h4 Rh6 26.h5 Rf6 27.c4 Qb4 28.Qc2 b6 
+29.Rb1 Qa5 30.Re3 Ref8 31.Rbe1 Re8 32.R1e2 Qb4 33.Re4 Qa3 34.R2e3 Qf8 35.
+d5 cxd5 36.cxd5 Nc5 37.Re5 Qf7 38.d6 Qb7+ 39.Kg1 Rf3 40.Qe2 Ref8 41.Rxf3 
+Qxf3 42.Qxf3 Rxf3 43.Rxg5 Ne4 44.Re5 Nxg3 45.Rxe6 Kf7 46.Re7+ Kf6 47.Kg2 
+Ra3 48.fxg3 Rxa4 49.g5+ Kxg5 50.Re5+ Kf6 51.Rd5 Ra2+ 52.Kf3 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Janosevic, Dragoljub"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B14"]
+[EventDate "1969.03.20"]
+[PlyCount "133"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.g3 
+Nbd7 9.Bg2 Nb6 10.Nge2 Bf5 11.O-O Qd7 12.d6 exd6 13.a4 Be6 14.d5 Bh3 15.a5
+Bxg2 16.Kxg2 Nc8 17.Bf4 Ne7 18.a6 Rfb8 19.Bxd6 Qxd6 20.axb7 Rxb7 21.Qxb7 
+Rb8 22.Qxa7 Rxb2 23.Ra2 Rb6 24.Rd1 h5 25.Qa3 Qd7 26.Qc5 Qb7 27.Kg1 Nf5 28.
+Ra8+ Kh7 29.Qc8 Qe7 30.Qd8 Qb7 31.Rc8 Rd6 32.Qc7 Qa6 33.Qc4 Qa5 34.Rc7 Kg8
+35.Nb5 Rxd5 36.Rb1 Rd7 37.Rxd7 Nxd7 38.Ned4 Nxd4 39.Nxd4 Ne5 40.Qb3 Kh7 
+41.Nf3 Nxf3+ 42.Qxf3 Qa2 43.Rb7 Kg8 44.Qe4 Qa1+ 45.Kg2 Qf6 46.Rb8+ Bf8 47.
+Qd5 Qe7 48.Rb7 Qf6 49.f4 h4 50.Rc7 hxg3 51.hxg3 Qb2+ 52.Kf3 Qf6 53.Rc6 Qg7
+54.Rc8 Qa1 55.Ke2 Qa6+ 56.Qc4 Qxc4+ 57.Rxc4 f5 58.Rc7 Bg7 59.Kd3 Bf6 60.
+Kc4 Ba1 61.Kd5 Bb2 62.Ke6 Bd4 63.Rc2 Kg7 64.Rg2 Be3 65.g4 fxg4 66.Rxg4 Kh6
+67.Kf6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Korchnoi, Viktor"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[EventDate "1969.03.20"]
+[PlyCount "31"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc2 Bg7 6.e4 d6 7.Be2 Nf6 8.Nc3 
+Nd7 9.Bd2 Nc5 10.O-O O-O 11.b3 a5 12.Rb1 f5 13.exf5 Bxf5 14.Bg4 Bd3 15.Be2
+Bf5 16.Bg4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Kovacs, Laszlo"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[EventDate "1969.03.20"]
+[PlyCount "120"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.e3 g6 6.Be2 Bg7 7.O-O O-O 8.b3 d6 9.
+Bb2 Nbd7 10.Qc2 Qe7 11.e4 h5 12.Rad1 Rfe8 13.Rfe1 Nh7 14.Nb5 Rec8 15.Nc3 
+a6 16.Kh1 Ndf8 17.Ng1 c5 18.d5 e5 19.Bc1 Rcb8 20.a4 Bc8 21.g3 h4 22.Bf1 
+hxg3 23.hxg3 Nf6 24.Bh3 Nh5 25.Bxc8 Rxc8 26.Nh3 Nh7 27.Kg2 Qd7 28.Qe2 Qe8 
+29.Rh1 Qe7 30.Rd3 Re8 31.Rdd1 Qd7 32.Bd2 Rab8 33.Rc1 Bf6 34.Rh2 Kg7 35.
+Rch1 Rh8 36.Qf3 Qe7 37.Qe3 Kg8 38.Kf1 Rf8 39.Ne2 Bg7 40.g4 Nf4 41.Nhxf4 
+exf4 42.Nxf4 b5 43.axb5 axb5 44.cxb5 Qd7 45.Qe2 Rb8 46.b4 cxb4 47.Bxb4 Be5
+48.Bd2 g5 49.Nd3 Bxh2 50.Rxh2 f6 51.Nb4 Rxb5 52.f3 Nf8 53.Rxh8+ Kxh8 54.
+Qh2+ Kg8 55.Ke1 Qc7 56.Nc6 Rb2 57.Qh5 Rb1+ 58.Ke2 Qb7 59.Bc3 Qb5+ 60.Kd2 
+Rb2+ 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Parma, Bruno"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "B97"]
+[EventDate "1969.03.20"]
+[PlyCount "86"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 
+Qxb2 9.Rb1 Qa3 10.Bxf6 gxf6 11.Be2 Bg7 12.O-O f5 13.Rfd1 Nc6 14.Nxc6 bxc6 
+15.Rb3 Qc5+ 16.Kh1 O-O 17.Na4 Qf2 18.Rf3 Qh4 19.exf5 exf5 20.Nb6 Rb8 21.
+Nxc8 Rfxc8 22.Bxa6 Re8 23.Re3 Rxe3 24.Qxe3 c5 25.g3 Qf6 26.Bc4 Rb7 27.Re1 
+Bf8 28.Qd3 h5 29.Kg2 h4 30.Qd5 Rb2 31.Bb3 Bg7 32.a4 Kh7 33.Re2 Rb1 34.Qxf7
+Qxf7 35.Bxf7 Bd4 36.Bc4 Rg1+ 37.Kh3 hxg3 38.hxg3 Kg7 39.a5 Ra1 40.a6 d5 
+41.Bb5 Kf6 42.c4 dxc4 43.Bxc4 Ra4 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.03"]
+[Round "12"]
+[White "Uhlmann, Wolfgang"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1/2-1/2"]
+[ECO "D25"]
+[EventDate "1969.03.20"]
+[PlyCount "94"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Bg4 5.Bxc4 e6 6.h3 Bh5 7.Nc3 Nbd7 8.O-O 
+Be7 9.Qe2 O-O 10.Rd1 c5 11.g4 Bg6 12.dxc5 Bxc5 13.e4 a6 14.Bg5 Qc7 15.e5 
+h6 16.exf6 hxg5 17.fxg7 Qg3+ 18.Kh1 Qxh3+ 19.Nh2 Rfd8 20.f3 Qg3 21.Bd3 
+Bxd3 22.Rxd3 Nf6 23.Rad1 Rxd3 24.Qxd3 Bb6 25.Qd6 Qxd6 26.Rxd6 Bc7 27.Rd3 
+Rc8 28.Nf1 Be5 29.Ne3 b5 30.Ncd1 a5 31.b3 Kxg7 32.Kg1 Rh8 33.Nc3 b4 34.
+Ncd1 Bh2+ 35.Kf2 Bf4 36.Nf1 Nd5 37.Rd4 Rc8 38.Rc4 Rxc4 39.bxc4 Nc3 40.Nxc3
+bxc3 41.Ne3 Kf6 42.Nc2 Ke5 43.Ke2 f5 44.Kd3 Bd2 45.Nd4 fxg4 46.fxg4 Kd6 
+47.a3 e5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Barczay, Laszlo"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "A37"]
+[EventDate "1969.03.20"]
+[PlyCount "79"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.Rb1 d6 6.a3 a5 7.Nf3 e5 8.d3 Nge7 9.
+O-O O-O 10.Ne1 Be6 11.Nd5 Rb8 12.Nc2 b5 13.Nce3 Qd7 14.cxb5 Rxb5 15.a4 
+Rbb8 16.Nxe7+ Nxe7 17.Nc4 Nc6 18.Bd2 e4 19.Nxa5 Nxa5 20.Bxa5 exd3 21.Qxd3 
+Rb3 22.Qc2 Qxa4 23.Bc3 Qc4 24.Rbc1 Rfb8 25.Qd2 Bxc3 26.bxc3 R8b6 27.Bf3 
+Rb2 28.Qe3 Bg4 29.Bxg4 Qxg4 30.Rfe1 Kg7 31.Qd3 h5 32.h4 c4 33.Qd5 Ra6 34.
+Rb1 Rxb1 35.Rxb1 Qxe2 36.Qd4+ Kh7 37.Rb8 Ra1+ 38.Kh2 Qe5 39.Qxe5 dxe5 40.
+Rb4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Damjanovic, Mato"]
+[Black "Korchnoi, Viktor"]
+[Result "0-1"]
+[ECO "B46"]
+[EventDate "1969.03.20"]
+[PlyCount "108"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d6 6.g3 a6 7.Bg2 Bd7 8.O-O Rc8
+9.b3 Nxd4 10.Qxd4 Be7 11.Qe3 Rxc3 12.Qxc3 Bf6 13.Qb4 Bxa1 14.Qxb7 Ne7 15.
+Qxa6 Nc8 16.Bf4 Be5 17.Bxe5 dxe5 18.Rd1 Qc7 19.c4 Ke7 20.Qa3+ Nd6 21.Bf1 
+Rc8 22.Bd3 Ke8 23.Qc1 f6 24.Qe3 Qa5 25.Qe2 Ke7 26.h4 Be8 27.Kh2 Nf7 28.Qb2
+Rb8 29.Bb1 Qb4 30.Kg2 Nd8 31.Rc1 Nc6 32.Qe2 Nd4 33.Qg4 g6 34.Qd1 Rd8 35.
+Qd3 Bc6 36.Rd1 Qb7 37.f3 Qb4 38.Qe3 Kf7 39.Qh6 Rh8 40.Qe3 Rd8 41.Qh6 Kg8 
+42.Qe3 Kg7 43.Kh3 h6 44.g4 g5 45.h5 Kf7 46.Kg2 Bb7 47.Rd3 Ke7 48.Kf2 Qa3 
+49.Qd2 f5 50.exf5 Nxf3 51.f6+ Kf7 52.Rd7+ Kxf6 53.Bg6 Rxd7 54.Qxd7 Qb2+ 
+0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Gliksman, Darko"]
+[Black "Kovacs, Laszlo"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[EventDate "1969.03.20"]
+[PlyCount "92"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.cxd5 exd5 6.Bg5 O-O 7.e3 Be6 8.Bd3 
+Nbd7 9.O-O c5 10.dxc5 Nxc5 11.Nd4 Nxd3 12.Qxd3 Qd7 13.f4 Qd6 14.Qb5 Ng4 
+15.h3 Bxg5 16.hxg4 Bd8 17.Qxb7 Bb6 18.Qa6 Bxg4 19.Na4 Bc8 20.Qd3 Bxd4 21.
+Qxd4 Re8 22.Nc3 Bb7 23.e4 Rad8 24.Rad1 a6 25.exd5 Qg6 26.Rfe1 h5 27.Re5 f6
+28.Rxe8+ Qxe8 29.Qf2 Rd6 30.Qf3 h4 31.Kh2 f5 32.Qf2 Qd8 33.Qd4 Rg6 34.Qe5 
+h3 35.gxh3 Qb6 36.Qe2 Qb4 37.Qf2 Qd6 38.Rg1 Rxg1 39.Kxg1 Bxd5 40.Nxd5 Qxd5
+41.b3 Qd3 42.Kg2 g6 43.Qb6 Kh7 44.a3 Kh6 45.Qe6 Qd2+ 46.Kg3 Qc3+ 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Hennings, Artur"]
+[Black "Bukal, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[EventDate "1969.03.20"]
+[PlyCount "109"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.Bd3 b5 8.O-O Bb7
+9.a3 Nbd7 10.f4 Qc7 11.Qe2 Be7 12.Rae1 O-O 13.Kh1 Kh8 14.Nf3 d5 15.exd5 
+exd5 16.Bd4 Rae8 17.Ne5 Bc5 18.Qf2 Bxd4 19.Qxd4 Nc5 20.Bf5 Nce4 21.Re3 Qc5
+22.Rd1 Qxd4 23.Rxd4 Nd6 24.Bd3 Kg8 25.Kg1 Rd8 26.Re2 Nc4 27.Bxc4 bxc4 28.
+Red2 Rb8 29.g4 h6 30.h4 Rfe8 31.g5 hxg5 32.hxg5 Nh5 33.Rh2 g6 34.Rxh5 gxh5
+35.Nd7 Bc6 36.Nxb8 Rxb8 37.Nd1 Kg7 38.Kf2 Kg6 39.Kg3 Re8 40.Nc3 Rd8 41.Kh4
+Kf5 42.Ne2 Rb8 43.Rd2 Ke4 44.Nd4 Bd7 45.c3 Bg4 46.Nc6 Ke3 47.Nxb8 Kxd2 48.
+Nxa6 Kc1 49.Nb4 d4 50.cxd4 Kxb2 51.d5 Kxa3 52.Nc2+ Kb2 53.Ne3 c3 54.d6 c2 
+55.Nxc2 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Lutikov, Anatoly"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[ECO "A02"]
+[EventDate "1969.03.20"]
+[PlyCount "34"]
+
+1.g3 g6 2.Bg2 Bg7 3.f4 d6 4.Nf3 e5 5.fxe5 dxe5 6.e4 Nc6 7.d3 Nge7 8.O-O 
+O-O 9.Nc3 Nd4 10.Be3 Nec6 11.Qd2 Nxf3+ 12.Rxf3 Nd4 13.Rf2 c6 14.Ne2 Nxe2+ 
+15.Rxe2 Be6 16.Rf2 b6 17.a4 c5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Matulovic, Milan"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B36"]
+[EventDate "1969.03.20"]
+[PlyCount "81"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be2 
+Bg7 9.O-O O-O 10.Qe3 Nd7 11.Bd2 Nc5 12.Rac1 a5 13.b3 Bd7 14.Bd1 Bc6 15.Bc2
+e5 16.Rcd1 Ne6 17.Ne2 Qh4 18.Bc1 Rfd8 19.f3 Qe7 20.a4 Bf6 21.Qf2 Bg5 22.
+Ba3 Qf8 23.Kh1 Nc5 24.Nc3 Ne6 25.Ne2 Nc5 26.Rfe1 h5 27.f4 Bf6 28.fxe5 Bxe5
+29.Nd4 Qe7 30.Nf3 b6 31.Bc1 Bb7 32.h3 Bg7 33.Bg5 Bf6 34.Bf4 Be5 35.Bg5 Bf6
+36.Bc1 Be5 37.Re2 Bg7 38.Rf1 Rf8 39.Bg5 f6 40.Bc1 Bxe4 41.Nh4 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Mestrovic, Zvonimir"]
+[Black "Janosevic, Dragoljub"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[EventDate "1969.03.20"]
+[PlyCount "187"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.b3 g6 5.Qf3 c5 6.a4 a5 7.d4 d6 8.exd6 Qxd6 9.
+Nc3 cxd4 10.Nb5 Qc5 11.Ba3 Qe5+ 12.Qe2 Qxe2+ 13.Nxe2 Na6 14.Nexd4 e5 15.
+Nf3 Bxa3 16.Nxa3 O-O 17.Be2 Nd7 18.O-O-O Ndc5 19.Kb2 Nb4 20.Nc2 e4 21.Nfe1
+Nc6 22.Ne3 Be6 23.Kc3 Rad8 24.N1c2 f5 25.Rxd8 Rxd8 26.Rd1 Rxd1 27.Nxd1 f4 
+28.Nd4 Bd7 29.Nxc6 Bxc6 30.Nb2 g5 31.b4 axb4+ 32.Kxb4 b6 33.Kc3 e3 34.fxe3
+Bxg2 35.exf4 gxf4 36.Nd3 f3 37.Ne1 fxe2 38.Nxg2 Nxa4+ 39.Kb4 Nc5 40.Ne1 
+Kf7 41.Kc3 Nd7 42.Nd3 Kf6 43.Kd2 Ne5 44.Kxe2 Nxc4 45.Nf2 Kf5 46.Nd3 Ne5 
+47.Nb4 Ke4 48.Kf1 Nd3 49.Nc6 b5 50.Kg2 b4 51.Na5 Nc1 52.Kg3 Kd5 53.Kf4 Kc5
+54.Ke3 Kb5 55.Kd2 Na2 56.Nb3 Nc3 57.Kd3 Na4 58.Kd4 Nb2 59.h4 Nc4 60.h5 Na5
+61.Nd2 Kc6 62.Ke5 Kc5 63.Kf6 Kd4 64.Kg7 Kd3 65.Kxh7 Kxd2 66.Kg7 b3 67.h6 
+b2 68.h7 b1=Q 69.h8=Q Qg1+ 70.Kh7 Qh2+ 71.Kg8 Qb8+ 72.Kh7 Qb1+ 73.Kg8 Qb3+
+74.Kh7 Qb7+ 75.Kg8 Qd5+ 76.Kh7 Nc4 77.Qf6 Ne3 78.Qb2+ Kd3 79.Qb1+ Ke2 80.
+Qb2+ Kf3 81.Qf6+ Nf5 82.Kg6 Ke4 83.Kh7 Kf4 84.Kh8 Qg2 85.Kh7 Qg4 86.Kh8 
+Qh5+ 87.Kg8 Qe8+ 88.Kh7 Ke4 89.Qg5 Qf7+ 90.Kh8 Qf8+ 91.Kh7 Ke5 92.Kg6 Ke6 
+93.Kh5 Qa8 94.Qg8+ 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.04"]
+[Round "13"]
+[White "Vukic, Milan"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[EventDate "1969.03.20"]
+[PlyCount "115"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nc6 7.d5 Na5 8.Nfd2 c6 
+9.a3 cxd5 10.cxd5 Ng4 11.Ra2 Ne5 12.b3 b5 13.h3 Bf5 14.Kh2 Rc8 15.f4 Bxb1 
+16.Nxb1 Nb7 17.Be3 Nc5 18.b4 Nc4 19.Bg1 Na4 20.Rc2 a5 21.Be4 axb4 22.axb4 
+Qd7 23.Qc1 Ncb2 24.Rc6 Nc4 25.Nd2 Nc3 26.Nxc4 bxc4 27.Bf3 e6 28.e4 Rxc6 
+29.dxc6 Qxc6 30.e5 Nd5 31.exd6 Rc8 32.Bc5 c3 33.Qd1 Bf8 34.Bxd5 exd5 35.
+Qd3 Bxd6 36.Qxc3 Bxc5 37.bxc5 Qxc5 38.Qf3 d4 39.f5 Qc2+ 40.Rf2 Qxf5 41.
+Qxf5 gxf5 42.Rxf5 Rd8 43.Rf2 Kg7 44.Kg2 Kg6 45.Kf3 f5 46.Rd2 Kg5 47.Rd1 h5
+48.h4+ Kf6 49.Kf4 Rg8 50.Ra1 Rg4+ 51.Kf3 Re4 52.Ra6+ Re6 53.Ra5 Rd6 54.Ke2
+Re6+ 55.Kd3 Re3+ 56.Kxd4 Rxg3 57.Ra6+ Kg7 58.Ke5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Barczay, Laszlo"]
+[Black "Matulovic, Milan"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[EventDate "1969.03.20"]
+[PlyCount "36"]
+
+1.Nf3 g6 2.e4 d6 3.c4 Nf6 4.Nc3 c5 5.d4 cxd4 6.Nxd4 Nc6 7.Nc2 Bg7 8.Be2 
+Nd7 9.Qd2 Qa5 10.Nd5 Qxd2+ 11.Bxd2 O-O 12.Bc3 Nc5 13.Bxg7 Kxg7 14.f3 a5 
+15.Rd1 f5 16.exf5 Bxf5 17.Nce3 Rad8 18.O-O e5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Bogdanovic, Rajko"]
+[Black "Mestrovic, Zvonimir"]
+[Result "1-0"]
+[ECO "B78"]
+[EventDate "1969.03.20"]
+[PlyCount "47"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Bd7 7.Bb3 Rc8 8.Be3 
+g6 9.f3 Bg7 10.Qd2 O-O 11.h4 Qa5 12.O-O-O Ne5 13.h5 Nc4 14.Bxc4 Rxc4 15.
+hxg6 fxg6 16.Nb3 Qc7 17.e5 dxe5 18.Nd5 Qd6 19.Nxf6+ Bxf6 20.Qe2 Rd4 21.
+Nxd4 exd4 22.Bxd4 Qf4+ 23.Kb1 Bc6 24.Qe6+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Bukal, Vladimir"]
+[Black "Lutikov, Anatoly"]
+[Result "0-1"]
+[ECO "C45"]
+[EventDate "1969.03.20"]
+[PlyCount "62"]
+
+1.e4 Nc6 2.d4 e5 3.Nf3 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.a4 a6 7.Nc3 Nf6 8.Bg5 
+d6 9.a5 Ba7 10.Qd2 h6 11.Be3 Bxe3 12.Qxe3 O-O 13.Nd4 Nb4 14.Qd2 d5 15.exd5
+c5 16.Nb3 Bf5 17.Bd3 Re8+ 18.Kf1 Nxd3 19.cxd3 Rc8 20.d4 c4 21.Nc5 Nxd5 22.
+Kg1 Nb4 23.N5a4 Nc2 24.Rd1 Nxd4 25.h3 Qd6 26.Nb6 Rcd8 27.Nbd5 Bd3 28.Qf4 
+Ne2+ 29.Nxe2 Qxd5 30.Nc3 Qxa5 31.Kh2 Qe5 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Gligoric, Svetozar"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "E97"]
+[EventDate "1969.03.20"]
+[PlyCount "79"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 
+9.Nd2 Bh6 10.b4 Ne8 11.c5 f5 12.exf5 gxf5 13.Nc4 Bxc1 14.Rxc1 Ng6 15.Bh5 
+Qe7 16.Bxg6 hxg6 17.f4 exf4 18.Rxf4 dxc5 19.bxc5 Qxc5+ 20.Kh1 Qe7 21.Qd2 
+Nd6 22.Nxd6 cxd6 23.Re1 Qf6 24.Rf3 Bd7 25.Ne4 fxe4 26.Rxf6 Rxf6 27.h3 Re8 
+28.Qd4 Rf7 29.Rxe4 Rxe4 30.Qxe4 Bf5 31.Qe8+ Kg7 32.Qb8 Rd7 33.Qxa7 Kf7 34.
+Qf2 Ke8 35.Qf4 Kd8 36.g4 Bb1 37.Qb4 Bc2 38.Kh2 Ke7 39.Qc4 Bb1 40.Qb3 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Korchnoi, Viktor"]
+[Black "Gliksman, Darko"]
+[Result "1-0"]
+[ECO "D94"]
+[EventDate "1969.03.20"]
+[PlyCount "89"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O dxc4 8.Bxc4 
+Nd5 9.Bd2 Nb6 10.Bb3 Bg4 11.h3 Bxf3 12.Qxf3 N8d7 13.Rad1 a5 14.a3 e5 15.
+Bc1 exd4 16.exd4 a4 17.Ba2 Nf6 18.Bg5 Qd6 19.Bf4 Qd7 20.Be5 Nbd5 21.g4 
+Nxc3 22.bxc3 Ne8 23.Rfe1 Nc7 24.c4 Bxe5 25.Rxe5 Rfe8 26.c5 Rad8 27.Kg2 Re7
+28.Qf6 Rxe5 29.dxe5 Nd5 30.Bxd5 cxd5 31.Rd4 h6 32.e6 fxe6 33.Qxg6+ Qg7 34.
+Qxe6+ Kh7 35.Rxd5 Rxd5 36.Qxd5 Kh8 37.c6 bxc6 38.Qxc6 Qb2 39.Qxh6+ Kg8 40.
+Qe3 Qb7+ 41.Kg3 Qb3 42.h4 Kh8 43.h5 Qb1 44.Qh6+ Kg8 45.Qg6+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Kovacs, Laszlo"]
+[Black "Hennings, Artur"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[EventDate "1969.03.20"]
+[PlyCount "85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5 6.Bxb5 Qxd5 7.Nc3 Qxg2 8.
+Qf3 Qxf3 9.Nxf3 Bd7 10.O-O Bd6 11.Bxc6 Bxc6 12.Nxe5 Bxe5 13.Re1 O-O-O 14.
+Rxe5 Rhe8 15.d4 Rxd4 16.Rxe8+ Nxe8 17.Be3 Rg4+ 18.Kf1 Rh4 19.Ke2 a6 20.Rd1
+Rxh2 21.Nd5 Bxd5 22.Rxd5 Rh4 23.b3 Re4 24.c4 Nf6 25.Rf5 Re7 26.Kf3 Nd7 27.
+Rh5 h6 28.Bd4 f6 29.Rh1 Kd8 30.Rc1 Re6 31.Rg1 Re7 32.b4 c5 33.Bxc5 Nxc5 
+34.bxc5 Kc7 35.Rb1 Kc6 36.Rb6+ Kxc5 37.Rxa6 Kxc4 38.Kg4 Kb5 39.Ra8 g6 40.
+Kf4 f5 41.f3 Re6 42.Rh8 h5 43.Kg5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Parma, Bruno"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "B49"]
+[EventDate "1969.03.20"]
+[PlyCount "63"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.f4 a6 7.Be2 b5 8.Nxc6 
+Qxc6 9.Bf3 Bb7 10.Be3 Rc8 11.a4 b4 12.e5 Qc7 13.Ne4 Nh6 14.a5 Bxe4 15.Bxe4
+Bc5 16.Qe2 O-O 17.Bxc5 Qxc5 18.Qf2 Qc4 19.Bd3 Qd5 20.Bxa6 Ra8 21.Qe2 Ra7 
+22.O-O Rfa8 23.Bd3 Rxa5 24.Rxa5 Rxa5 25.Qe3 d6 26.Qb6 Qc5+ 27.Qxc5 dxc5 
+28.Rd1 g6 29.h3 Nf5 30.Bxf5 gxf5 31.Rd8+ Kg7 32.Rc8 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.05"]
+[Round "14"]
+[White "Uhlmann, Wolfgang"]
+[Black "Janosevic, Dragoljub"]
+[Result "1-0"]
+[ECO "D46"]
+[EventDate "1969.03.20"]
+[PlyCount "71"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.e3 Nbd7 6.Bd3 Be7 7.b3 O-O 8.O-O b6 
+9.Bb2 Bb7 10.Qe2 Rc8 11.Rad1 Qc7 12.Ne5 c5 13.cxd5 cxd4 14.exd4 Nxe5 15.
+dxe5 Nxd5 16.Nb5 Qb8 17.Qg4 g6 18.Qg3 Rfd8 19.h4 Ba6 20.a4 Bxb5 21.axb5 
+Nc3 22.Rde1 Bxh4 23.Qh3 Be7 24.Bc4 Nd5 25.Re4 Qb7 26.Rfe1 Bf8 27.Rh4 Bg7 
+28.Bc1 h5 29.Bg5 Re8 30.g4 hxg4 31.Qxg4 Qc7 32.Rh3 Qc5 33.Qh4 Qb4 34.Re4 
+Ne7 35.Bf6 Kf8 36.Bxg7+ 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Damjanovic, Mato"]
+[Black "Barczay, Laszlo"]
+[Result "1-0"]
+[ECO "E53"]
+[EventDate "1969.03.20"]
+[PlyCount "93"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 d5 7.O-O Nbd7 8.cxd5 
+exd5 9.a3 Ba5 10.b4 cxb4 11.Nb5 Bc7 12.Qc2 Bb8 13.axb4 a6 14.Nc3 Re8 15.
+Bd2 Nb6 16.h3 Bd7 17.b5 a5 18.Ne2 Nc8 19.Ne5 b6 20.Qb3 Ne7 21.Ng3 Be6 22.
+Qb1 Bxe5 23.dxe5 Ne4 24.Qb2 Nc5 25.Bc2 Qd7 26.Bc3 Nf5 27.Rad1 Rac8 28.Bd4 
+Nh4 29.Kh2 g6 30.f4 Nf5 31.Bxf5 Bxf5 32.Bxc5 Rxc5 33.e4 Rxb5 34.Qe2 Be6 
+35.f5 Rc5 36.fxe6 Qxe6 37.exd5 Rxd5 38.Rxd5 Qxd5 39.Re1 f6 40.e6 b5 41.Qe3
+a4 42.h4 Re7 43.h5 gxh5 44.Qf3 Qxf3 45.gxf3 a3 46.Nf5 Re8 47.Nd6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Gliksman, Darko"]
+[Black "Parma, Bruno"]
+[Result "1-0"]
+[ECO "B35"]
+[EventDate "1969.03.20"]
+[PlyCount "131"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 Qa5 8.O-O 
+d6 9.h3 O-O 10.Bb3 Bd7 11.Nde2 b5 12.Ng3 Ne5 13.Nd5 Nxd5 14.Bxd5 Rac8 15.
+Bd4 Qa4 16.Bc3 b4 17.Bb3 Qb5 18.Bd4 Nc6 19.Bxg7 Kxg7 20.a3 a5 21.axb4 axb4
+22.Kh1 Qc5 23.f4 Nd4 24.f5 Qe5 25.Qg4 Kh8 26.Ra7 gxf5 27.Qh4 Rcd8 28.Nxf5 
+Nxf5 29.exf5 Rg8 30.Bxf7 Rg7 31.Re1 Qf6 32.Qxf6 exf6 33.Be6 Bc6 34.Rxg7 
+Kxg7 35.Ra1 Be4 36.Ra7+ Kh6 37.Rf7 Kg5 38.Rxh7 Bxf5 39.Bxf5 Kxf5 40.Rb7 
+Rc8 41.Rxb4 Rxc2 42.Kh2 d5 43.Kg3 Ke5 44.h4 d4 45.Kf3 d3 46.h5 d2 47.Rb5+ 
+Ke6 48.Ke2 d1=Q+ 49.Kxd1 Rxg2 50.Ke1 Rh2 51.Kf1 f5 52.h6 f4 53.Kg1 Rh4 54.
+Rb7 Kf5 55.h7 Ke4 56.Kg2 Rh6 57.Re7+ Kd5 58.b4 Rh4 59.Kf3 Kc6 60.Ke4 Kb5 
+61.Rb7+ Kc4 62.b5 Kc5 63.b6 Kc6 64.Rf7 Kxb6 65.Kf5 Kc5 66.Kg6 1-0
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Hennings, Artur"]
+[Black "Korchnoi, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[EventDate "1969.03.20"]
+[PlyCount "29"]
+
+1.e4 e5 2.Bc4 Bc5 3.Nc3 Nc6 4.Qg4 Kf8 5.Qf3 Nf6 6.Nge2 d6 7.d3 h6 8.h3 Na5
+9.Be3 Bxe3 10.Qxe3 Nxc4 11.dxc4 Be6 12.b3 Kg8 13.O-O-O Qe7 14.g4 a6 15.Nd5
+1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Janosevic, Dragoljub"]
+[Black "Bogdanovic, Rajko"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[EventDate "1969.03.20"]
+[PlyCount "16"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O 
+b5 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Lutikov, Anatoly"]
+[Black "Kovacs, Laszlo"]
+[Result "0-1"]
+[ECO "C86"]
+[EventDate "1969.03.20"]
+[PlyCount "120"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O 
+9.Bc2 Re8 10.d3 Bf8 11.a4 Rb8 12.axb5 axb5 13.Rd1 d5 14.Bg5 d4 15.Nbd2 h6 
+16.Bh4 g5 17.Bg3 Nh5 18.Nb3 Nxg3 19.hxg3 Bg7 20.cxd4 exd4 21.Rdc1 g4 22.
+Nfd2 Qd6 23.Bb1 Re5 24.Nf1 Be6 25.Ra6 Rb6 26.Ra8+ Kh7 27.Nbd2 Nb4 28.Ra7 
+Rc5 29.Rxc5 Qxc5 30.f4 gxf3 31.gxf3 Rb8 32.Ra5 Qc1 33.Kg2 Qxb2 34.f4 Qc3 
+35.f5 Bd7 36.Ra7 Qc5 37.Ra1 Qc3 38.Ra7 Qc5 39.Ra1 Nc6 40.Nf3 b4 41.N1d2 
+Qc3 42.Ra6 Bc8 43.Ra4 Bd7 44.Ra6 b3 45.Nc4 Qc1 46.Nfd2 f6 47.e5 Nxe5 48.
+Nxe5 fxe5 49.f6 Bc6+ 50.Ne4 Bxf6 51.Qf3 Bxe4 52.Qxe4+ Kg7 53.Rc6 Qd2+ 54.
+Kh3 Qg5 55.Rxc7+ Be7 56.Qd5 Rf8 57.Qe6 Qh5+ 58.Kg2 Qf3+ 59.Kh2 Qf2+ 60.Kh3
+Qf1+ 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Matulovic, Milan"]
+[Black "Uhlmann, Wolfgang"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[EventDate "1969.03.20"]
+[PlyCount "19"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Qe2+ Be7 7.dxc5 Nf6 8.
+Nb3 O-O 9.Be3 Re8 10.Nf3 1/2-1/2
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Mestrovic, Zvonimir"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "C13"]
+[EventDate "1969.03.20"]
+[PlyCount "62"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 Nbd7 4.Nf3 e6 5.e4 h6 6.Bh4 dxe4 7.Nxe4 Be7 8.Bxf6
+Nxf6 9.Bd3 Nxe4 10.Bxe4 c5 11.O-O cxd4 12.Nxd4 O-O 13.c3 Bf6 14.Nf3 Bd7 
+15.Qb3 Qc7 16.Rad1 Rfd8 17.Nd4 Be8 18.g3 Rab8 19.Bb1 e5 20.Nf5 Bc6 21.Qc2 
+Bf3 22.Rxd8+ Rxd8 23.Re1 e4 24.Qa4 g6 25.Ne3 Qe5 26.Nf1 b5 27.Qa6 Be7 28.
+Qc6 Bc5 29.Bxe4 Bb6 30.Qb7 f5 31.Bc2 Bxf2+ 0-1
+
+[Event "12th Bosna it"]
+[Site "Sarajevo YUG"]
+[Date "1969.04.07"]
+[Round "15"]
+[White "Vukic, Milan"]
+[Black "Bukal, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[EventDate "1969.03.20"]
+[PlyCount "123"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.O-O Nd7 5.d3 Ngf6 6.Nbd2 e5 7.e4 Bd6 8.Qe2 
+O-O 9.h3 Bxf3 10.Nxf3 Re8 11.Nh4 Bf8 12.Nf5 Kh8 13.Bg5 h6 14.Bd2 Kh7 15.a4
+g6 16.Ne3 Nc5 17.exd5 cxd5 18.b4 Ne6 19.c4 Nd4 20.Qd1 dxc4 21.dxc4 Qd7 22.
+Bc3 Rad8 23.Kh2 Bg7 24.Nd5 Nxd5 25.Bxd5 Qc7 26.Rc1 Re7 27.Re1 b6 28.Bxd4 
+exd4 29.Rxe7 Qxe7 30.Qd2 Qd7 31.b5 Qc7 32.Re1 Rd7 33.Qe2 Bf6 34.Qf3 Kg7 
+35.Kg2 Re7 36.Rd1 Qc5 37.Qb3 Re2 38.Rd3 Re1 39.Rf3 Qe7 40.Qc2 Ra1 41.Qd2 
+Rxa4 42.Qf4 Ra3 43.h4 Rxf3 44.Qxf3 h5 45.Qd3 Qe1 46.Qa3 Be7 47.Qd3 Bc5 48.
+Qe4 Qxe4+ 49.Bxe4 f6 50.Kf3 f5 51.Bd3 Kf6 52.Ke2 g5 53.hxg5+ Kxg5 54.Kf3 
+Bd6 55.Kg2 f4 56.Kf3 fxg3 57.fxg3 Bc7 58.Be4 Kf6 59.Bd3 Ke5 60.Bg6 Kd6 61.
+Ke4 Kc5 62.Kd3 1/2-1/2
