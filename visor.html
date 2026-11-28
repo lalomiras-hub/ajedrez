@@ -3775,7 +3775,7 @@ function buildBoard(){
     const file = state.flip ? 7-f : f, rank = state.flip ? r+1 : 8-r;
     const sq='abcdefgh'[file]+rank;
     const d=document.createElement('div');
-    d.className='sq '+((file+rank)%2===0?'d':'l'); d.dataset.sq=sq;
+    d.className='sq '+((file+rank)%2===1?'d':'l'); d.dataset.sq=sq;
     if (f===0){ const c=document.createElement('span'); c.className='coord rk'; c.textContent=rank; d.appendChild(c); }
     if (r===7){ const c=document.createElement('span'); c.className='coord fl'; c.textContent='abcdefgh'[file]; d.appendChild(c); }
     boardEl.appendChild(d); squares[sq]=d;
